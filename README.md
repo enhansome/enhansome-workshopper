@@ -60,7 +60,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [planetproto](https://github.com/sporto/planetproto) ⚠️ Archived                                                                                | Understanding JavaScript Prototypes                                                                |
 | [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt) ⭐ 737 \| 🐛 45 \| 🌐 JavaScript \| 📅 2021-04-21                      | A Workshopper module that teaches you to use promises in javascript                                |
 | [secureyournode](https://github.com/someoneweird/secureyournode) ⭐ 27 \| 🐛 0 \| 🌐 JavaScript \| 📅 2015-07-27                                 | Security workshop                                                                                  |
-| [security-adventure](https://github.com/toolness/security-adventure) ⭐ 334 \| 🐛 4 \| 🌐 JavaScript \| 📅 2013-09-27                            | Go on an educational Web security adventure!                                                       |
+| [security-adventure](https://github.com/toolness/security-adventure) ⭐ 335 \| 🐛 4 \| 🌐 JavaScript \| 📅 2013-09-27                            | Go on an educational Web security adventure!                                                       |
 | [stream-adventure](https://github.com/substack/stream-adventure) ⭐ 2,064 \| 🐛 21 \| 🌐 JavaScript \| 📅 2022-11-18                             | go on an educational stream adventure!                                                             |
 | [stylist-workshop](https://github.com/alanshaw/stylist) ⭐ 43 \| 🐛 6 \| 🌐 JavaScript \| 📅 2014-12-06                                          | Introduction to CSS                                                                                |
 | [swirl](https://github.com/swirldev/swirl) ⭐ 1,218 \| 🐛 325 \| 🌐 R \| 📅 2023-10-27                                                           | Learn the statistical computing and graphics programming language R, in R                          |
@@ -113,4 +113,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
