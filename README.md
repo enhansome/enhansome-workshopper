@@ -32,7 +32,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [expressworks](https://github.com/azat-co/expressworks) ⭐ 735 \| 🐛 18 \| 🌐 JavaScript \| 📅 2024-03-21                                        | an automated Express.js workshop                                                                   |
 | [footballbot-workshop](https://github.com/alanshaw/footballbot-workshop)                                                                        | A step by step guide to building your own footballbot (robotics)                                   |
 | [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) ⭐ 2,040 \| 🐛 83 \| 🌐 JavaScript \| 📅 2020-10-08 | A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.            |
-| [git-it](https://github.com/jlord/git-it) ⭐ 1,980 \| 🐛 23 \| 🌐 HTML \| 📅 2022-03-08                                                          | A workshopper for learning Git and GitHub.                                                         |
+| [git-it](https://github.com/jlord/git-it) ⭐ 1,981 \| 🐛 23 \| 🌐 HTML \| 📅 2022-03-08                                                          | A workshopper for learning Git and GitHub.                                                         |
 | [goingnative](https://github.com/workshopper/goingnative) ⭐ 415 \| 🐛 14 \| 🌐 JavaScript \| 📅 2021-08-24                                      | Learn how to write native Node.js addons                                                           |
 | [how-to-npm](https://github.com/npm/how-to-npm) ⭐ 1,207 \| 🐛 33 \| 🌐 JavaScript \| 📅 2022-03-28                                              | A module to teach you how to module.                                                               |
 | [http-adventure](https://github.com/yoshuawuyts/http-adventure) ⭐ 9 \| 🐛 2 \| 🌐 JavaScript \| 📅 2014-12-21                                   | \[wip] Learn node's http module.                                                                   |
@@ -113,4 +113,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
