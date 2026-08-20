@@ -2,7 +2,7 @@
 
 *alternatively, awesome-adventure*
 
-A list of workshopper/adventure-based tutorials for various things. Inspired by awesome. These are terminal-based guides to learning a new programming concept. Here's an example screenshot from rvagg's [learnyounode](https://github.com/workshopper/learnyounode) ⭐ 7,388 | 🐛 113 | 🌐 HTML | 📅 2021-12-04:
+A list of workshopper/adventure-based tutorials for various things. Inspired by awesome. These are terminal-based guides to learning a new programming concept. Here's an example screenshot from rvagg's [learnyounode](https://github.com/workshopper/learnyounode) ⭐ 7,389 | 🐛 113 | 🌐 HTML | 📅 2021-12-04:
 
 ![Learn You The Node.js For Much Win!](https://raw.github.com/rvagg/learnyounode/master/learnyounode.png)
 
@@ -32,21 +32,21 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [expressworks](https://github.com/azat-co/expressworks) ⭐ 735 \| 🐛 18 \| 🌐 JavaScript \| 📅 2024-03-21                                        | an automated Express.js workshop                                                                   |
 | [footballbot-workshop](https://github.com/alanshaw/footballbot-workshop)                                                                        | A step by step guide to building your own footballbot (robotics)                                   |
 | [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) ⭐ 2,040 \| 🐛 83 \| 🌐 JavaScript \| 📅 2020-10-08 | A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.            |
-| [git-it](https://github.com/jlord/git-it) ⭐ 1,981 \| 🐛 23 \| 🌐 HTML \| 📅 2022-03-08                                                          | A workshopper for learning Git and GitHub.                                                         |
+| [git-it](https://github.com/jlord/git-it) ⭐ 1,980 \| 🐛 23 \| 🌐 HTML \| 📅 2022-03-08                                                          | A workshopper for learning Git and GitHub.                                                         |
 | [goingnative](https://github.com/workshopper/goingnative) ⭐ 415 \| 🐛 14 \| 🌐 JavaScript \| 📅 2021-08-24                                      | Learn how to write native Node.js addons                                                           |
-| [how-to-npm](https://github.com/npm/how-to-npm) ⭐ 1,207 \| 🐛 33 \| 🌐 JavaScript \| 📅 2022-03-28                                              | A module to teach you how to module.                                                               |
+| [how-to-npm](https://github.com/npm/how-to-npm) ⭐ 1,208 \| 🐛 33 \| 🌐 JavaScript \| 📅 2022-03-28                                              | A module to teach you how to module.                                                               |
 | [http-adventure](https://github.com/yoshuawuyts/http-adventure) ⭐ 9 \| 🐛 2 \| 🌐 JavaScript \| 📅 2014-12-21                                   | \[wip] Learn node's http module.                                                                   |
 | [http-works](https://github.com/Raynos/http-works) ⭐ 31 \| 🐛 0 \| 🌐 JavaScript \| 📅 2014-03-14                                               | http framework                                                                                     |
 | [intro-to-node](https://github.com/sherodtaylor/intro-to-node) ⭐ 11 \| 🐛 1 \| 🌐 JavaScript \| 📅 2014-10-30                                   | An intro to Node.js                                                                                |
 | [introtowebgl](https://github.com/alexmackey/IntroToWebGLWithThreeJS) ⭐ 164 \| 🐛 3 \| 🌐 JavaScript \| 📅 2017-01-28                           | Intro to WebGL with three.js                                                                       |
-| [javascripting](https://github.com/sethvincent/javascripting) ⭐ 2,905 \| 🐛 18 \| 🌐 JavaScript \| 📅 2026-08-10                                | Learn JavaScript by adventuring around in the terminal                                             |
+| [javascripting](https://github.com/sethvincent/javascripting) ⭐ 2,907 \| 🐛 19 \| 🌐 JavaScript \| 📅 2026-08-10                                | Learn JavaScript by adventuring around in the terminal                                             |
 | [jsadventure](https://github.com/mk30/jsadventure)                                                                                              | Introduction to Javascript. No programming experience needed.                                      |
 | [kick-off-koa](https://github.com/koajs/kick-off-koa) ⚠️ Archived                                                                               | An intro to koa                                                                                    |
 | [learn-generators](https://github.com/isRuslan/learn-generators) ⭐ 267 \| 🐛 2 \| 🌐 JavaScript \| 📅 2024-07-08                                | JavaScript ES(6\|2015) generators workshopper. Learn in practice. :metal:                          |
 | [learnjs](https://github.com/mikeal/learnjs) ⭐ 23 \| 🐛 2 \| 🌐 JavaScript \| 📅 2017-07-11                                                     | Introduction to Javascript                                                                         |
 | [learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb) ⭐ 44 \| 🐛 30 \| 🌐 JavaScript \| 📅 2017-03-09                            | Learn you CouchDB for great good!                                                                  |
 | [learnyoumongodb](https://github.com/braz/learnyoumongodb) ⭐ 18 \| 🐛 2 \| 🌐 JavaScript \| 📅 2019-02-22                                       | Learn MongoDB using the terminal                                                                   |
-| [learnyounode](https://github.com/workshopper/learnyounode) ⭐ 7,388 \| 🐛 113 \| 🌐 HTML \| 📅 2021-12-04                                       | Learn You The Node.js For Much Win! An intro to Node.js                                            |
+| [learnyounode](https://github.com/workshopper/learnyounode) ⭐ 7,389 \| 🐛 113 \| 🌐 HTML \| 📅 2021-12-04                                       | Learn You The Node.js For Much Win! An intro to Node.js                                            |
 | [levelmeup](https://github.com/workshopper/levelmeup) ⭐ 269 \| 🐛 7 \| 🌐 JavaScript \| 📅 2022-12-06                                           | Level Me Up Scotty! An intro to Node.js databases                                                  |
 | [lololodash](https://github.com/mdunisch/lololodash) ⭐ 84 \| 🐛 3 \| 🌐 JavaScript \| 📅 2024-03-04                                             | Lo-Dash Javascript Exercises                                                                       |
 | [makemehapi](https://github.com/nvcexploder/makemehapi) ⭐ 0 \| 🐛 0 \| 🌐 JavaScript \| 📅 2015-03-03                                           | Introduction to Hapi                                                                               |
@@ -65,7 +65,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [stylist-workshop](https://github.com/alanshaw/stylist) ⭐ 43 \| 🐛 6 \| 🌐 JavaScript \| 📅 2014-12-06                                          | Introduction to CSS                                                                                |
 | [swirl](https://github.com/swirldev/swirl) ⭐ 1,216 \| 🐛 325 \| 🌐 R \| 📅 2023-10-27                                                           | Learn the statistical computing and graphics programming language R, in R                          |
 | [tapeshopper](https://github.com/tomgco/tapeshopper) ⭐ 5 \| 🐛 2 \| 🌐 JavaScript \| 📅 2015-01-26                                              | Learn how to test with tape! (tap-producing test harness for node)                                 |
-| [test-anything](https://github.com/finnp/test-anything) ⭐ 169 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-04-02                                         | Introduction to testing                                                                            |
+| [test-anything](https://github.com/finnp/test-anything) ⭐ 170 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-04-02                                         | Introduction to testing                                                                            |
 | [thinking-in-react](https://github.com/asbjornenge/thinking-in-react) ⭐ 179 \| 🐛 2 \| 🌐 JavaScript \| 📅 2017-04-04                           | Introduction to React                                                                              |
 | [tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel) ⭐ 600 \| 🐛 42 \| 🌐 JavaScript \| 📅 2025-11-19                            | A tour of the features of Babel.js                                                                 |
 | [unix-adventure](https://github.com/substack/unix-adventure)                                                                                    | become a unix wizard                                                                               |
@@ -113,4 +113,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
