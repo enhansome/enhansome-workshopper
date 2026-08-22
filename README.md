@@ -20,7 +20,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | Module Name                                                                                                                                     | Description                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [algorithms-101](https://github.com/linclark/algorithms-101) ⭐ 80 \| 🐛 2 \| 🌐 JavaScript \| 📅 2014-08-07                                     | Introduction to algorithms                                                                         |
-| [async-you](https://github.com/bulkan/async-you) ⭐ 116 \| 🐛 1 \| 🌐 JavaScript \| 📅 2023-09-11                                                | Learn to use <https://github.com/caolan/async> ⭐ 28,139 \| 🐛 23 \| 🌐 JavaScript \| 📅 2026-08-07 |
+| [async-you](https://github.com/bulkan/async-you) ⭐ 116 \| 🐛 1 \| 🌐 JavaScript \| 📅 2023-09-11                                                | Learn to use <https://github.com/caolan/async> ⭐ 28,138 \| 🐛 23 \| 🌐 JavaScript \| 📅 2026-08-07 |
 | [bacon-love](https://github.com/mikaelbr/bacon-love) ⭐ 50 \| 🐛 5 \| 🌐 JavaScript \| 📅 2017-01-08                                             | Functional Reactive Programming and Bacon.js                                                       |
 | [biohacker](https://github.com/bionode/biohacker) ⚠️ Archived                                                                                   | Gives some usage examples of bionode for bioinformatics                                            |
 | [browserify-adventure](https://github.com/substack/browserify-adventure) ⭐ 143 \| 🐛 12 \| 🌐 JavaScript \| 📅 2016-06-20                       | Learn browserify                                                                                   |
@@ -36,7 +36,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [goingnative](https://github.com/workshopper/goingnative) ⭐ 415 \| 🐛 14 \| 🌐 JavaScript \| 📅 2021-08-24                                      | Learn how to write native Node.js addons                                                           |
 | [how-to-npm](https://github.com/npm/how-to-npm) ⭐ 1,208 \| 🐛 33 \| 🌐 JavaScript \| 📅 2022-03-28                                              | A module to teach you how to module.                                                               |
 | [http-adventure](https://github.com/yoshuawuyts/http-adventure) ⭐ 9 \| 🐛 2 \| 🌐 JavaScript \| 📅 2014-12-21                                   | \[wip] Learn node's http module.                                                                   |
-| [http-works](https://github.com/Raynos/http-works) ⭐ 31 \| 🐛 0 \| 🌐 JavaScript \| 📅 2014-03-14                                               | http framework                                                                                     |
+| [http-works](https://github.com/Raynos/http-works) ⭐ 32 \| 🐛 0 \| 🌐 JavaScript \| 📅 2014-03-14                                               | http framework                                                                                     |
 | [intro-to-node](https://github.com/sherodtaylor/intro-to-node) ⭐ 11 \| 🐛 1 \| 🌐 JavaScript \| 📅 2014-10-30                                   | An intro to Node.js                                                                                |
 | [introtowebgl](https://github.com/alexmackey/IntroToWebGLWithThreeJS) ⭐ 164 \| 🐛 3 \| 🌐 JavaScript \| 📅 2017-01-28                           | Intro to WebGL with three.js                                                                       |
 | [javascripting](https://github.com/sethvincent/javascripting) ⭐ 2,907 \| 🐛 19 \| 🌐 JavaScript \| 📅 2026-08-10                                | Learn JavaScript by adventuring around in the terminal                                             |
@@ -113,4 +113,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
