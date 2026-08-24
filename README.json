@@ -1,7 +1,822 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Adventure substack/adventure",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21336713,
+            "language": "JavaScript",
+            "last_commit": "2022-12-30T18:19:38Z",
+            "owner": "workshopper",
+            "repo": "adventure",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Workshopper rvagg/workshopper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12034304,
+            "language": "JavaScript",
+            "last_commit": "2024-07-17T17:31:58Z",
+            "owner": "workshopper",
+            "repo": "workshopper",
+            "stars": 1106
+          }
+        }
+      ],
+      "title": "Raw Builders"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "algorithms-101",
+          "description": "Introduction to algorithms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22304411,
+            "language": "JavaScript",
+            "last_commit": "2014-08-07T03:02:36Z",
+            "owner": "linclark",
+            "repo": "algorithms-101",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "async-you",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15022758,
+            "language": "JavaScript",
+            "last_commit": "2023-09-11T10:56:20Z",
+            "owner": "bulkan",
+            "repo": "async-you",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learn to use https://github.com/caolan/async",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 698041,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T17:03:35Z",
+            "owner": "caolan",
+            "repo": "async",
+            "stars": 28139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bacon-love",
+          "description": "Functional Reactive Programming and Bacon.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23124087,
+            "language": "JavaScript",
+            "last_commit": "2017-01-08T14:06:18Z",
+            "owner": "mikaelbr",
+            "repo": "bacon-love",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "biohacker",
+          "description": "Gives some usage examples of bionode for bioinformatics",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 24039146,
+            "language": "JavaScript",
+            "last_commit": "2026-05-18T21:23:01Z",
+            "owner": "bionode",
+            "repo": "biohacker",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "browserify-adventure",
+          "description": "Learn browserify",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21336822,
+            "language": "JavaScript",
+            "last_commit": "2016-06-20T21:05:39Z",
+            "owner": "workshopper",
+            "repo": "browserify-adventure",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bug-clinic",
+          "description": "Learn how to debug Node.js apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21343939,
+            "language": "JavaScript",
+            "last_commit": "2021-04-21T14:46:56Z",
+            "owner": "othiym23",
+            "repo": "bug-clinic",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bytewiser",
+          "description": "Teaches the fundamentals of working with binary data in node.js and HTML5 browsers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13838596,
+            "language": "HTML",
+            "last_commit": "2018-10-07T20:59:44Z",
+            "owner": "max-mapper",
+            "repo": "bytewiser",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "count-to-6",
+          "description": "An intro to some ES6 features",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19917045,
+            "language": "JavaScript",
+            "last_commit": "2017-10-20T19:10:36Z",
+            "owner": "domenic",
+            "repo": "count-to-6",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "data-plumber",
+          "description": "Munging data on the command line",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21312750,
+            "language": "JavaScript",
+            "last_commit": "2015-08-20T17:07:35Z",
+            "owner": "max-mapper",
+            "repo": "data-plumber",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "es5-workshop",
+          "description": "Introduction to ES5 methods",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22898008,
+            "language": "JavaScript",
+            "last_commit": "2014-08-13T01:26:43Z",
+            "owner": "timoxley",
+            "repo": "es5-workshop",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "expressworks",
+          "description": "an automated Express.js workshop",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13843615,
+            "language": "JavaScript",
+            "last_commit": "2024-03-21T07:30:04Z",
+            "owner": "azat-co",
+            "repo": "expressworks",
+            "stars": 735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "functional-javascript-workshop",
+          "description": "A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12946174,
+            "language": "JavaScript",
+            "last_commit": "2020-10-08T09:28:30Z",
+            "owner": "timoxley",
+            "repo": "functional-javascript-workshop",
+            "stars": 2040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-it",
+          "description": "A workshopper for learning Git and GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15297233,
+            "language": "HTML",
+            "last_commit": "2022-03-08T12:43:37Z",
+            "owner": "jlord",
+            "repo": "git-it",
+            "stars": 1980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goingnative",
+          "description": "Learn how to write native Node.js addons",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21227316,
+            "language": "JavaScript",
+            "last_commit": "2021-08-24T16:00:48Z",
+            "owner": "workshopper",
+            "repo": "goingnative",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "how-to-npm",
+          "description": "A module to teach you how to module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30475131,
+            "language": "JavaScript",
+            "last_commit": "2022-03-28T07:50:09Z",
+            "owner": "workshopper",
+            "repo": "how-to-npm",
+            "stars": 1208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "http-adventure",
+          "description": "[wip] Learn node's http module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28314697,
+            "language": "JavaScript",
+            "last_commit": "2014-12-21T22:09:11Z",
+            "owner": "yoshuawuyts",
+            "repo": "http-adventure",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "http-works",
+          "description": "http framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17552034,
+            "language": "JavaScript",
+            "last_commit": "2014-03-14T22:58:40Z",
+            "owner": "Raynos",
+            "repo": "http-works",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "intro-to-node",
+          "description": "An intro to Node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24402935,
+            "language": "JavaScript",
+            "last_commit": "2014-10-30T18:27:11Z",
+            "owner": "sherodtaylor",
+            "repo": "intro-to-node",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "introtowebgl",
+          "description": "Intro to WebGL with three.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19628413,
+            "language": "JavaScript",
+            "last_commit": "2017-01-28T21:28:43Z",
+            "owner": "alexmackey",
+            "repo": "IntroToWebGLWithThreeJS",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "javascripting",
+          "description": "Learn JavaScript by adventuring around in the terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24617126,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T09:51:43Z",
+            "owner": "workshopper",
+            "repo": "javascripting",
+            "stars": 2906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kick-off-koa",
+          "description": "An intro to koa",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 22051243,
+            "language": "JavaScript",
+            "last_commit": "2024-06-03T15:34:08Z",
+            "owner": "koajs",
+            "repo": "kick-off-koa",
+            "stars": 699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "learn-generators",
+          "description": "JavaScript ES(6|2015) generators workshopper. Learn in practice. :metal:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29730706,
+            "language": "JavaScript",
+            "last_commit": "2024-07-08T11:37:27Z",
+            "owner": "isRuslan",
+            "repo": "learn-generators",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "learnjs",
+          "description": "Introduction to Javascript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24297163,
+            "language": "JavaScript",
+            "last_commit": "2017-07-11T21:54:03Z",
+            "owner": "mikeal",
+            "repo": "learnjs",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "learnyoucouchdb",
+          "description": "Learn you CouchDB for great good!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24265323,
+            "language": "JavaScript",
+            "last_commit": "2017-03-09T16:05:30Z",
+            "owner": "robertkowalski",
+            "repo": "learnyoucouchdb",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "learnyoumongodb",
+          "description": "Learn MongoDB using the terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15261158,
+            "language": "JavaScript",
+            "last_commit": "2019-02-22T14:55:09Z",
+            "owner": "braz",
+            "repo": "learnyoumongodb",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "learnyounode",
+          "description": "Learn You The Node.js For Much Win! An intro to Node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11899155,
+            "language": "HTML",
+            "last_commit": "2021-12-04T20:27:04Z",
+            "owner": "workshopper",
+            "repo": "learnyounode",
+            "stars": 7389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "levelmeup",
+          "description": "Level Me Up Scotty! An intro to Node.js databases",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12338536,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T17:48:26Z",
+            "owner": "workshopper",
+            "repo": "levelmeup",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lololodash",
+          "description": "Lo-Dash Javascript Exercises",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21603718,
+            "language": "JavaScript",
+            "last_commit": "2024-03-04T10:50:55Z",
+            "owner": "mdunisch",
+            "repo": "lololodash",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "makemehapi",
+          "description": "Introduction to Hapi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16519094,
+            "language": "JavaScript",
+            "last_commit": "2015-03-03T00:26:11Z",
+            "owner": "nvcexploder",
+            "repo": "makemehapi",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mongodb-aggregate-adventure",
+          "description": "A series of MongoDB aggregation workshops",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16261020,
+            "language": "JavaScript",
+            "last_commit": "2014-03-17T17:39:37Z",
+            "owner": "braz",
+            "repo": "mongodb-aggregate-adventure",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mongoose-adventure",
+          "description": "Introduction to Mongoose",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13631873,
+            "language": "JavaScript",
+            "last_commit": "2013-10-19T23:48:55Z",
+            "owner": "wearefractal",
+            "repo": "mongoose-adventure",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-debug-school",
+          "description": "nodeschool curriculum for debugging Node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24349867,
+            "language": "JavaScript",
+            "last_commit": "2018-08-24T15:21:39Z",
+            "owner": "TritonDataCenter",
+            "repo": "node-debug-school",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nodebot-workshop",
+          "description": "Arduino / Johnny-five (robotics)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18515024,
+            "language": "JavaScript",
+            "last_commit": "2024-05-20T09:54:13Z",
+            "owner": "tableflip",
+            "repo": "nodebot-workshop",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nodenext",
+          "description": "Learn about the next version of node",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15209352,
+            "language": "JavaScript",
+            "last_commit": "2013-12-16T06:01:51Z",
+            "owner": "geek",
+            "repo": "nodenext",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "npm-tutor",
+          "description": "npm tutor for nodeconf 2014",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20930485,
+            "language": "JavaScript",
+            "last_commit": "2014-11-18T12:45:53Z",
+            "owner": "timoxley",
+            "repo": "npm-tutor",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oobootcamp",
+          "description": "Object-Oriented JavaScript Bootcamp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17801319,
+            "language": "JavaScript",
+            "last_commit": "2014-03-31T08:13:39Z",
+            "owner": "winsonwq",
+            "repo": "OOBootcamp.js",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "planetproto",
+          "description": "Understanding JavaScript Prototypes",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 19851567,
+            "language": "JavaScript",
+            "last_commit": "2017-06-05T13:08:04Z",
+            "owner": "sporto",
+            "repo": "planetproto",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "promise-it-wont-hurt",
+          "description": "A Workshopper module that teaches you to use promises in javascript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14903245,
+            "language": "JavaScript",
+            "last_commit": "2021-04-21T14:51:36Z",
+            "owner": "stevekane",
+            "repo": "promise-it-wont-hurt",
+            "stars": 737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "secureyournode",
+          "description": "Security workshop",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29678811,
+            "language": "JavaScript",
+            "last_commit": "2015-07-27T12:14:52Z",
+            "owner": "SomeoneWeird",
+            "repo": "secureyournode",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "security-adventure",
+          "description": "Go on an educational Web security adventure!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12917308,
+            "language": "JavaScript",
+            "last_commit": "2013-09-27T02:39:02Z",
+            "owner": "toolness",
+            "repo": "security-adventure",
+            "stars": 335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stream-adventure",
+          "description": "go on an educational stream adventure!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10733929,
+            "language": "JavaScript",
+            "last_commit": "2022-11-18T05:13:00Z",
+            "owner": "workshopper",
+            "repo": "stream-adventure",
+            "stars": 2064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stylist-workshop",
+          "description": "Introduction to CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26936163,
+            "language": "JavaScript",
+            "last_commit": "2014-12-06T15:09:19Z",
+            "owner": "alanshaw",
+            "repo": "stylist",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swirl",
+          "description": "Learn the statistical computing and graphics programming language R, in R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13523710,
+            "language": "R",
+            "last_commit": "2023-10-27T18:00:31Z",
+            "owner": "swirldev",
+            "repo": "swirl",
+            "stars": 1217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tapeshopper",
+          "description": "Learn how to test with tape! (tap-producing test harness for node)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29185829,
+            "language": "JavaScript",
+            "last_commit": "2015-01-26T10:15:53Z",
+            "owner": "tomgco",
+            "repo": "tapeshopper",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "test-anything",
+          "description": "Introduction to testing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22466241,
+            "language": "JavaScript",
+            "last_commit": "2023-04-02T19:32:03Z",
+            "owner": "workshopper",
+            "repo": "test-anything",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thinking-in-react",
+          "description": "Introduction to React",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19908047,
+            "language": "JavaScript",
+            "last_commit": "2017-04-04T11:58:00Z",
+            "owner": "asbjornenge",
+            "repo": "thinking-in-react",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tower-of-babel",
+          "description": "A tour of the features of Babel.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33443348,
+            "language": "JavaScript",
+            "last_commit": "2025-11-19T16:35:41Z",
+            "owner": "yosuke-furukawa",
+            "repo": "tower-of-babel",
+            "stars": 600
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "adventure-map",
+              "description": "Simple exercise loader & generators for substack/adventure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25136729,
+                "language": "JavaScript",
+                "last_commit": "2016-01-30T20:42:04Z",
+                "owner": "timoxley",
+                "repo": "adventure-map",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "adventure-time",
+              "description": "Web-based adventures",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25416194,
+                "language": "JavaScript",
+                "last_commit": "2017-09-26T22:11:24Z",
+                "owner": "max-mapper",
+                "repo": "adventure-time",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "generator-workshopper",
+              "description": "Yeoman generator for the marvelous workshopper from nodeschool.io",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27345009,
+                "language": "JavaScript",
+                "last_commit": "2014-12-16T18:13:41Z",
+                "owner": "MindCookin",
+                "repo": "generator-workshopper",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Additional Tools"
+        }
+      ],
+      "title": "Workshoppers"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T23:02:06.600Z",
+    "last_updated": "2026-08-24T14:04:03.756Z",
     "original_repository": "therebelrobot/awesome-workshopper",
     "original_repository_id": 31267860,
     "original_repository_sha": "5c19be2962ba93c2f8c10576cb3cf210219c4d44",
