@@ -81,7 +81,7 @@
             "last_commit": "2026-08-07T17:03:35Z",
             "owner": "caolan",
             "repo": "async",
-            "stars": 28139
+            "stars": 28136
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2021-12-04T20:27:04Z",
             "owner": "workshopper",
             "repo": "learnyounode",
-            "stars": 7389
+            "stars": 7390
           }
         },
         {
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:11:41.888Z",
+    "last_updated": "2026-08-27T04:05:19.419Z",
     "original_repository": "therebelrobot/awesome-workshopper",
     "original_repository_id": 31267860,
     "original_repository_sha": "5c19be2962ba93c2f8c10576cb3cf210219c4d44",
