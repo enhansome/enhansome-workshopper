@@ -816,9 +816,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:05:19.419Z",
-    "original_repository": "therebelrobot/awesome-workshopper",
-    "original_repository_id": 31267860,
+    "last_updated": "2026-08-27T12:15:23.653Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 31267860,
+      "language": null,
+      "last_commit": "2021-03-03T04:05:01Z",
+      "owner": "therebelrobot",
+      "repo": "awesome-workshopper",
+      "stars": 2264
+    },
     "original_repository_sha": "5c19be2962ba93c2f8c10576cb3cf210219c4d44",
     "enhanced_repository": "enhansome/enhansome-workshopper",
     "enhanced_repository_description": null,
