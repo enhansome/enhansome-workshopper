@@ -16,7 +16,8 @@
             "owner": "workshopper",
             "repo": "adventure",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "workshopper",
             "repo": "workshopper",
             "stars": 1106
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         }
       ],
       "title": "Raw Builders"
@@ -52,7 +54,8 @@
             "owner": "linclark",
             "repo": "algorithms-101",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "bulkan",
             "repo": "async-you",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -81,8 +85,9 @@
             "last_commit": "2026-08-07T17:03:35Z",
             "owner": "caolan",
             "repo": "async",
-            "stars": 28136
-          }
+            "stars": 28138
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "mikaelbr",
             "repo": "bacon-love",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "bionode",
             "repo": "biohacker",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "workshopper",
             "repo": "browserify-adventure",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "othiym23",
             "repo": "bug-clinic",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "max-mapper",
             "repo": "bytewiser",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "domenic",
             "repo": "count-to-6",
             "stars": 324
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "max-mapper",
             "repo": "data-plumber",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "timoxley",
             "repo": "es5-workshop",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "azat-co",
             "repo": "expressworks",
             "stars": 735
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "timoxley",
             "repo": "functional-javascript-workshop",
             "stars": 2040
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "jlord",
             "repo": "git-it",
             "stars": 1980
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "workshopper",
             "repo": "goingnative",
             "stars": 415
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "workshopper",
             "repo": "how-to-npm",
             "stars": 1209
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "yoshuawuyts",
             "repo": "http-adventure",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "Raynos",
             "repo": "http-works",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "sherodtaylor",
             "repo": "intro-to-node",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "alexmackey",
             "repo": "IntroToWebGLWithThreeJS",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -351,8 +373,9 @@
             "last_commit": "2026-08-24T09:51:43Z",
             "owner": "workshopper",
             "repo": "javascripting",
-            "stars": 2906
-          }
+            "stars": 2907
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "koajs",
             "repo": "kick-off-koa",
             "stars": 699
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "isRuslan",
             "repo": "learn-generators",
             "stars": 267
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "mikeal",
             "repo": "learnjs",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "robertkowalski",
             "repo": "learnyoucouchdb",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "braz",
             "repo": "learnyoumongodb",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -441,8 +469,9 @@
             "last_commit": "2021-12-04T20:27:04Z",
             "owner": "workshopper",
             "repo": "learnyounode",
-            "stars": 7390
-          }
+            "stars": 7391
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "workshopper",
             "repo": "levelmeup",
             "stars": 269
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "mdunisch",
             "repo": "lololodash",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "nvcexploder",
             "repo": "makemehapi",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "braz",
             "repo": "mongodb-aggregate-adventure",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "wearefractal",
             "repo": "mongoose-adventure",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "TritonDataCenter",
             "repo": "node-debug-school",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "tableflip",
             "repo": "nodebot-workshop",
             "stars": 211
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "geek",
             "repo": "nodenext",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "timoxley",
             "repo": "npm-tutor",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -592,7 +630,8 @@
             "owner": "winsonwq",
             "repo": "OOBootcamp.js",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -607,7 +646,8 @@
             "owner": "sporto",
             "repo": "planetproto",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -622,7 +662,8 @@
             "owner": "stevekane",
             "repo": "promise-it-wont-hurt",
             "stars": 737
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -637,7 +678,8 @@
             "owner": "SomeoneWeird",
             "repo": "secureyournode",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -652,7 +694,8 @@
             "owner": "toolness",
             "repo": "security-adventure",
             "stars": 335
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -667,7 +710,8 @@
             "owner": "workshopper",
             "repo": "stream-adventure",
             "stars": 2064
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -682,7 +726,8 @@
             "owner": "alanshaw",
             "repo": "stylist",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -697,7 +742,8 @@
             "owner": "swirldev",
             "repo": "swirl",
             "stars": 1217
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -712,7 +758,8 @@
             "owner": "tomgco",
             "repo": "tapeshopper",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -727,7 +774,8 @@
             "owner": "workshopper",
             "repo": "test-anything",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -742,7 +790,8 @@
             "owner": "asbjornenge",
             "repo": "thinking-in-react",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "node_type": "item",
@@ -756,8 +805,9 @@
             "last_commit": "2025-11-19T16:35:41Z",
             "owner": "yosuke-furukawa",
             "repo": "tower-of-babel",
-            "stars": 600
-          }
+            "stars": 599
+          },
+          "first_seen": "2026-08-28T06:22:55.347Z"
         },
         {
           "children": [
@@ -774,7 +824,8 @@
                 "owner": "timoxley",
                 "repo": "adventure-map",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T06:22:55.347Z"
             },
             {
               "node_type": "item",
@@ -789,7 +840,8 @@
                 "owner": "max-mapper",
                 "repo": "adventure-time",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T06:22:55.347Z"
             },
             {
               "node_type": "item",
@@ -804,7 +856,8 @@
                 "owner": "MindCookin",
                 "repo": "generator-workshopper",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T06:22:55.347Z"
             }
           ],
           "description": null,
@@ -816,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:15:23.653Z",
+    "last_updated": "2026-08-28T06:22:55.347Z",
     "original_repository_info": {
       "archived": false,
       "id": 31267860,
@@ -824,7 +877,7 @@
       "last_commit": "2021-03-03T04:05:01Z",
       "owner": "therebelrobot",
       "repo": "awesome-workshopper",
-      "stars": 2264
+      "stars": 2265
     },
     "original_repository_sha": "5c19be2962ba93c2f8c10576cb3cf210219c4d44",
     "enhanced_repository": "enhansome/enhansome-workshopper",

@@ -2,7 +2,7 @@
 
 *alternatively, awesome-adventure*
 
-A list of workshopper/adventure-based tutorials for various things. Inspired by awesome. These are terminal-based guides to learning a new programming concept. Here's an example screenshot from rvagg's [learnyounode](https://github.com/workshopper/learnyounode) ⭐ 7,390 | 🐛 113 | 🌐 HTML | 📅 2021-12-04:
+A list of workshopper/adventure-based tutorials for various things. Inspired by awesome. These are terminal-based guides to learning a new programming concept. Here's an example screenshot from rvagg's [learnyounode](https://github.com/workshopper/learnyounode) ⭐ 7,391 | 🐛 113 | 🌐 HTML | 📅 2021-12-04:
 
 ![Learn You The Node.js For Much Win!](https://raw.github.com/rvagg/learnyounode/master/learnyounode.png)
 
@@ -20,7 +20,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | Module Name                                                                                                                                     | Description                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [algorithms-101](https://github.com/linclark/algorithms-101) ⭐ 80 \| 🐛 2 \| 🌐 JavaScript \| 📅 2014-08-07                                     | Introduction to algorithms                                                                         |
-| [async-you](https://github.com/bulkan/async-you) ⭐ 116 \| 🐛 1 \| 🌐 JavaScript \| 📅 2023-09-11                                                | Learn to use <https://github.com/caolan/async> ⭐ 28,136 \| 🐛 23 \| 🌐 JavaScript \| 📅 2026-08-07 |
+| [async-you](https://github.com/bulkan/async-you) ⭐ 116 \| 🐛 1 \| 🌐 JavaScript \| 📅 2023-09-11                                                | Learn to use <https://github.com/caolan/async> ⭐ 28,138 \| 🐛 23 \| 🌐 JavaScript \| 📅 2026-08-07 |
 | [bacon-love](https://github.com/mikaelbr/bacon-love) ⭐ 50 \| 🐛 5 \| 🌐 JavaScript \| 📅 2017-01-08                                             | Functional Reactive Programming and Bacon.js                                                       |
 | [biohacker](https://github.com/bionode/biohacker) ⚠️ Archived                                                                                   | Gives some usage examples of bionode for bioinformatics                                            |
 | [browserify-adventure](https://github.com/substack/browserify-adventure) ⭐ 143 \| 🐛 12 \| 🌐 JavaScript \| 📅 2016-06-20                       | Learn browserify                                                                                   |
@@ -39,14 +39,14 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [http-works](https://github.com/Raynos/http-works) ⭐ 32 \| 🐛 0 \| 🌐 JavaScript \| 📅 2014-03-14                                               | http framework                                                                                     |
 | [intro-to-node](https://github.com/sherodtaylor/intro-to-node) ⭐ 11 \| 🐛 1 \| 🌐 JavaScript \| 📅 2014-10-30                                   | An intro to Node.js                                                                                |
 | [introtowebgl](https://github.com/alexmackey/IntroToWebGLWithThreeJS) ⭐ 164 \| 🐛 3 \| 🌐 JavaScript \| 📅 2017-01-28                           | Intro to WebGL with three.js                                                                       |
-| [javascripting](https://github.com/sethvincent/javascripting) ⭐ 2,906 \| 🐛 8 \| 🌐 JavaScript \| 📅 2026-08-24                                 | Learn JavaScript by adventuring around in the terminal                                             |
+| [javascripting](https://github.com/sethvincent/javascripting) ⭐ 2,907 \| 🐛 8 \| 🌐 JavaScript \| 📅 2026-08-24                                 | Learn JavaScript by adventuring around in the terminal                                             |
 | [jsadventure](https://github.com/mk30/jsadventure)                                                                                              | Introduction to Javascript. No programming experience needed.                                      |
 | [kick-off-koa](https://github.com/koajs/kick-off-koa) ⚠️ Archived                                                                               | An intro to koa                                                                                    |
 | [learn-generators](https://github.com/isRuslan/learn-generators) ⭐ 267 \| 🐛 2 \| 🌐 JavaScript \| 📅 2024-07-08                                | JavaScript ES(6\|2015) generators workshopper. Learn in practice. :metal:                          |
 | [learnjs](https://github.com/mikeal/learnjs) ⭐ 23 \| 🐛 2 \| 🌐 JavaScript \| 📅 2017-07-11                                                     | Introduction to Javascript                                                                         |
 | [learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb) ⭐ 44 \| 🐛 30 \| 🌐 JavaScript \| 📅 2017-03-09                            | Learn you CouchDB for great good!                                                                  |
 | [learnyoumongodb](https://github.com/braz/learnyoumongodb) ⭐ 18 \| 🐛 2 \| 🌐 JavaScript \| 📅 2019-02-22                                       | Learn MongoDB using the terminal                                                                   |
-| [learnyounode](https://github.com/workshopper/learnyounode) ⭐ 7,390 \| 🐛 113 \| 🌐 HTML \| 📅 2021-12-04                                       | Learn You The Node.js For Much Win! An intro to Node.js                                            |
+| [learnyounode](https://github.com/workshopper/learnyounode) ⭐ 7,391 \| 🐛 113 \| 🌐 HTML \| 📅 2021-12-04                                       | Learn You The Node.js For Much Win! An intro to Node.js                                            |
 | [levelmeup](https://github.com/workshopper/levelmeup) ⭐ 269 \| 🐛 7 \| 🌐 JavaScript \| 📅 2022-12-06                                           | Level Me Up Scotty! An intro to Node.js databases                                                  |
 | [lololodash](https://github.com/mdunisch/lololodash) ⭐ 84 \| 🐛 3 \| 🌐 JavaScript \| 📅 2024-03-04                                             | Lo-Dash Javascript Exercises                                                                       |
 | [makemehapi](https://github.com/nvcexploder/makemehapi) ⭐ 0 \| 🐛 0 \| 🌐 JavaScript \| 📅 2015-03-03                                           | Introduction to Hapi                                                                               |
@@ -67,7 +67,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [tapeshopper](https://github.com/tomgco/tapeshopper) ⭐ 5 \| 🐛 2 \| 🌐 JavaScript \| 📅 2015-01-26                                              | Learn how to test with tape! (tap-producing test harness for node)                                 |
 | [test-anything](https://github.com/finnp/test-anything) ⭐ 170 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-04-02                                         | Introduction to testing                                                                            |
 | [thinking-in-react](https://github.com/asbjornenge/thinking-in-react) ⭐ 179 \| 🐛 2 \| 🌐 JavaScript \| 📅 2017-04-04                           | Introduction to React                                                                              |
-| [tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel) ⭐ 600 \| 🐛 42 \| 🌐 JavaScript \| 📅 2025-11-19                            | A tour of the features of Babel.js                                                                 |
+| [tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel) ⭐ 599 \| 🐛 42 \| 🌐 JavaScript \| 📅 2025-11-19                            | A tour of the features of Babel.js                                                                 |
 | [unix-adventure](https://github.com/substack/unix-adventure)                                                                                    | become a unix wizard                                                                               |
 
 ### Additional Tools
@@ -113,4 +113,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
