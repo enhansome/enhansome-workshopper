@@ -2,7 +2,7 @@
 
 *alternatively, awesome-adventure*
 
-A list of workshopper/adventure-based tutorials for various things. Inspired by awesome. These are terminal-based guides to learning a new programming concept. Here's an example screenshot from rvagg's [learnyounode](https://github.com/workshopper/learnyounode) ⭐ 7,391 | 🐛 113 | 🌐 HTML | 📅 2021-12-04:
+A list of workshopper/adventure-based tutorials for various things. Inspired by awesome. These are terminal-based guides to learning a new programming concept. Here's an example screenshot from rvagg's [learnyounode](https://github.com/workshopper/learnyounode) ⭐ 7,392 | 🐛 113 | 🌐 HTML | 📅 2021-12-04:
 
 ![Learn You The Node.js For Much Win!](https://raw.github.com/rvagg/learnyounode/master/learnyounode.png)
 
@@ -46,7 +46,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [learnjs](https://github.com/mikeal/learnjs) ⭐ 23 \| 🐛 2 \| 🌐 JavaScript \| 📅 2017-07-11                                                     | Introduction to Javascript                                                                         |
 | [learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb) ⭐ 44 \| 🐛 30 \| 🌐 JavaScript \| 📅 2017-03-09                            | Learn you CouchDB for great good!                                                                  |
 | [learnyoumongodb](https://github.com/braz/learnyoumongodb) ⭐ 18 \| 🐛 2 \| 🌐 JavaScript \| 📅 2019-02-22                                       | Learn MongoDB using the terminal                                                                   |
-| [learnyounode](https://github.com/workshopper/learnyounode) ⭐ 7,391 \| 🐛 113 \| 🌐 HTML \| 📅 2021-12-04                                       | Learn You The Node.js For Much Win! An intro to Node.js                                            |
+| [learnyounode](https://github.com/workshopper/learnyounode) ⭐ 7,392 \| 🐛 113 \| 🌐 HTML \| 📅 2021-12-04                                       | Learn You The Node.js For Much Win! An intro to Node.js                                            |
 | [levelmeup](https://github.com/workshopper/levelmeup) ⭐ 269 \| 🐛 7 \| 🌐 JavaScript \| 📅 2022-12-06                                           | Level Me Up Scotty! An intro to Node.js databases                                                  |
 | [lololodash](https://github.com/mdunisch/lololodash) ⭐ 84 \| 🐛 3 \| 🌐 JavaScript \| 📅 2024-03-04                                             | Lo-Dash Javascript Exercises                                                                       |
 | [makemehapi](https://github.com/nvcexploder/makemehapi) ⭐ 0 \| 🐛 0 \| 🌐 JavaScript \| 📅 2015-03-03                                           | Introduction to Hapi                                                                               |
@@ -113,4 +113,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "quickly hack together an adventure workshop for nodeschool",
+            "homepage": null,
             "id": 21336713,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-30T18:19:38Z",
+            "open_issues": 8,
             "owner": "workshopper",
             "repo": "adventure",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A terminal workshop runner framework",
+            "homepage": null,
             "id": 12034304,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-17T17:31:58Z",
+            "open_issues": 30,
             "owner": "workshopper",
             "repo": "workshopper",
-            "stars": 1106
+            "stars": 1106,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         }
@@ -48,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A NodeSchool workshopper to introduce JS developers to algorithms",
+            "homepage": null,
             "id": 22304411,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2014-08-07T03:02:36Z",
+            "open_issues": 2,
             "owner": "linclark",
             "repo": "algorithms-101",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -64,12 +79,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn to use https://github.com/caolan/async in this self guided workshop",
+            "homepage": null,
             "id": 15022758,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-09-11T10:56:20Z",
+            "open_issues": 1,
             "owner": "bulkan",
             "repo": "async-you",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "async",
+              "javascript",
+              "looking-for-contributors",
+              "looking-for-maintainer",
+              "node",
+              "rvagg",
+              "workshop"
+            ]
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -80,12 +108,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Async utilities for node and the browser",
+            "homepage": "http://caolan.github.io/async/",
             "id": 698041,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-07T17:03:35Z",
+            "open_issues": 23,
             "owner": "caolan",
             "repo": "async",
-            "stars": 28138
+            "stars": 28138,
+            "topics": [
+              "async",
+              "callbacks",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -96,12 +133,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Nodeschool type workshop for Functional Reactive Programming and Bacon.js",
+            "homepage": null,
             "id": 23124087,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-08T14:06:18Z",
+            "open_issues": 5,
             "owner": "mikaelbr",
             "repo": "bacon-love",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -112,12 +154,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A nodeschool workshop that gives some usage examples of bionode for bioinformatics",
+            "homepage": null,
             "id": 24039146,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-05-18T21:23:01Z",
+            "open_issues": 2,
             "owner": "bionode",
             "repo": "biohacker",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "bioinformatics",
+              "bionode",
+              "docker",
+              "nodejs",
+              "try-bionode-io",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -128,12 +182,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "learn browserify with this educational adventure",
+            "homepage": null,
             "id": 21336822,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2016-06-20T21:05:39Z",
+            "open_issues": 12,
             "owner": "workshopper",
             "repo": "browserify-adventure",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -144,12 +203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a nodeschool.io-style workshopper for learning how to debug Node.js apps",
+            "homepage": "https://npmjs.org/package/bug-clinic",
             "id": 21343939,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-04-21T14:46:56Z",
+            "open_issues": 12,
             "owner": "othiym23",
             "repo": "bug-clinic",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -160,12 +224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a nodeschool workshop that teaches you the fundamentals of working with binary data in node.js and HTML5 browsers",
+            "homepage": "https://npmjs.org/package/bytewiser",
             "id": 13838596,
             "language": "HTML",
+            "license": "BSD-2-Clause",
             "last_commit": "2018-10-07T20:59:44Z",
+            "open_issues": 7,
             "owner": "max-mapper",
             "repo": "bytewiser",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -176,12 +245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An intro to some ES6 features via a set of self-guided workshops.",
+            "homepage": null,
             "id": 19917045,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-10-20T19:10:36Z",
+            "open_issues": 16,
             "owner": "domenic",
             "repo": "count-to-6",
-            "stars": 324
+            "stars": 324,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -192,12 +266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a nodeschool workshop for munging data on the command line",
+            "homepage": null,
             "id": 21312750,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-08-20T17:07:35Z",
+            "open_issues": 7,
             "owner": "max-mapper",
             "repo": "data-plumber",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -208,12 +287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Introduction to ES5 methods.",
+            "homepage": null,
             "id": 22898008,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-08-13T01:26:43Z",
+            "open_issues": 0,
             "owner": "timoxley",
             "repo": "es5-workshop",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -224,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn Express.js from the author of one of the best books on Express.js—Pro Express.js— with this workshop that will teach you basics of Express.js.",
+            "homepage": null,
             "id": 13843615,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-21T07:30:04Z",
+            "open_issues": 18,
             "owner": "azat-co",
             "repo": "expressworks",
-            "stars": 735
+            "stars": 735,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -240,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.",
+            "homepage": null,
             "id": 12946174,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-10-08T09:28:30Z",
+            "open_issues": 83,
             "owner": "timoxley",
             "repo": "functional-javascript-workshop",
-            "stars": 2040
+            "stars": 2040,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -256,12 +350,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":computer: :mortar_board: Learn Git and GitHub. Try the new desktop version → ",
+            "homepage": "http://github.com/jlord/git-it-electron",
             "id": 15297233,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-08T12:43:37Z",
+            "open_issues": 23,
             "owner": "jlord",
             "repo": "git-it",
-            "stars": 1980
+            "stars": 1980,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -272,12 +371,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A NodeSchool style workshopper for learning how to write native Node.js addons",
+            "homepage": null,
             "id": 21227316,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-24T16:00:48Z",
+            "open_issues": 14,
             "owner": "workshopper",
             "repo": "goingnative",
-            "stars": 415
+            "stars": 415,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -288,12 +392,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A module to teach you how to module.",
+            "homepage": "https://www.npmjs.com/package/how-to-npm",
             "id": 30475131,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2022-03-28T07:50:09Z",
+            "open_issues": 33,
             "owner": "workshopper",
             "repo": "how-to-npm",
-            "stars": 1209
+            "stars": 1209,
+            "topics": [
+              "javascript",
+              "nodeschool",
+              "npm"
+            ]
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -304,12 +417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[wip] Learn node's http module.",
+            "homepage": null,
             "id": 28314697,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-12-21T22:09:11Z",
+            "open_issues": 2,
             "owner": "yoshuawuyts",
             "repo": "http-adventure",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -320,12 +438,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A workshopper for http framework",
+            "homepage": null,
             "id": 17552034,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-03-14T22:58:40Z",
+            "open_issues": 0,
             "owner": "Raynos",
             "repo": "http-works",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -336,12 +459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An intro to Node.js workshop",
+            "homepage": "nodeschool.io",
             "id": 24402935,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-10-30T18:27:11Z",
+            "open_issues": 1,
             "owner": "sherodtaylor",
             "repo": "intro-to-node",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -352,12 +480,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intro to WebGL with three.js",
+            "homepage": null,
             "id": 19628413,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-28T21:28:43Z",
+            "open_issues": 3,
             "owner": "alexmackey",
             "repo": "IntroToWebGLWithThreeJS",
-            "stars": 164
+            "stars": 164,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -368,12 +501,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn JavaScript by adventuring around in the terminal.",
+            "homepage": "http://nodeschool.io",
             "id": 24617126,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T09:51:43Z",
+            "open_issues": 8,
             "owner": "workshopper",
             "repo": "javascripting",
-            "stars": 2907
+            "stars": 2907,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -384,12 +522,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[MAINTAINERS WANTED] An intro to koa via a set of self-guided workshops",
+            "homepage": null,
             "id": 22051243,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-03T15:34:08Z",
+            "open_issues": 13,
             "owner": "koajs",
             "repo": "kick-off-koa",
-            "stars": 699
+            "stars": 699,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -400,12 +543,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript ES(6|2015) generators workshopper. Learn in practice. :metal:",
+            "homepage": null,
             "id": 29730706,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-07-08T11:37:27Z",
+            "open_issues": 2,
             "owner": "isRuslan",
             "repo": "learn-generators",
-            "stars": 267
+            "stars": 267,
+            "topics": [
+              "es6-generators",
+              "generators",
+              "javascript",
+              "nodeschool",
+              "tutorial",
+              "workshop",
+              "workshopper"
+            ]
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -416,12 +572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workshopper for learning JavaScript.",
+            "homepage": null,
             "id": 24297163,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-07-11T21:54:03Z",
+            "open_issues": 2,
             "owner": "mikeal",
             "repo": "learnjs",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -432,12 +593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn you CouchDB for great good!",
+            "homepage": null,
             "id": 24265323,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-03-09T16:05:30Z",
+            "open_issues": 30,
             "owner": "robertkowalski",
             "repo": "learnyoucouchdb",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -448,12 +614,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn MongoDB using the terminal",
+            "homepage": null,
             "id": 15261158,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-02-22T14:55:09Z",
+            "open_issues": 2,
             "owner": "braz",
             "repo": "learnyoumongodb",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -464,12 +635,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.",
+            "homepage": null,
             "id": 11899155,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2021-12-04T20:27:04Z",
+            "open_issues": 113,
             "owner": "workshopper",
             "repo": "learnyounode",
-            "stars": 7391
+            "stars": 7392,
+            "topics": [
+              "learn-to-code",
+              "learning-by-doing",
+              "nodejs",
+              "nodeschool",
+              "workshopper"
+            ]
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -480,12 +662,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Level Me Up Scotty! An intro to Node.js databases via a set of self-guided workshops.",
+            "homepage": null,
             "id": 12338536,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-06T17:48:26Z",
+            "open_issues": 7,
             "owner": "workshopper",
             "repo": "levelmeup",
-            "stars": 269
+            "stars": 269,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -496,12 +683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 21603718,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-04T10:50:55Z",
+            "open_issues": 3,
             "owner": "mdunisch",
             "repo": "lololodash",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -512,12 +704,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self guided workshops to teach you about hapi.",
+            "homepage": null,
             "id": 16519094,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2015-03-03T00:26:11Z",
+            "open_issues": 0,
             "owner": "nvcexploder",
             "repo": "makemehapi",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -528,12 +725,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mongodb-aggregate-adventure will run through a series of MongoDB aggregation workshops. Starting at a basic aggregation tasks and moving on to more advanced exercises about dealing with aggregation using MongoDB.",
+            "homepage": null,
             "id": 16261020,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2014-03-17T17:39:37Z",
+            "open_issues": 0,
             "owner": "braz",
             "repo": "mongodb-aggregate-adventure",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -544,12 +746,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 13631873,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2013-10-19T23:48:55Z",
+            "open_issues": 1,
             "owner": "wearefractal",
             "repo": "mongoose-adventure",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -560,12 +767,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "nodeschool curriculum for debugging Node.js",
+            "homepage": null,
             "id": 24349867,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-08-24T15:21:39Z",
+            "open_issues": 9,
             "owner": "TritonDataCenter",
             "repo": "node-debug-school",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -576,12 +788,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A nodeschool workshop on how to get your ardunio alive with johnny-five",
+            "homepage": "https://www.npmjs.org/package/nodebot-workshop",
             "id": 18515024,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-05-20T09:54:13Z",
+            "open_issues": 7,
             "owner": "tableflip",
             "repo": "nodebot-workshop",
-            "stars": 211
+            "stars": 211,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -592,12 +809,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workshopper to learn about the next version of node",
+            "homepage": null,
             "id": 15209352,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2013-12-16T06:01:51Z",
+            "open_issues": 0,
             "owner": "geek",
             "repo": "nodenext",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -608,12 +830,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "npm tutor for nodeconf 2014",
+            "homepage": null,
             "id": 20930485,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-11-18T12:45:53Z",
+            "open_issues": 3,
             "owner": "timoxley",
             "repo": "npm-tutor",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -624,12 +851,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Object-Oriented JavaScript Bootcamp",
+            "homepage": null,
             "id": 17801319,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-03-31T08:13:39Z",
+            "open_issues": 0,
             "owner": "winsonwq",
             "repo": "OOBootcamp.js",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -640,12 +872,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Understanding JavaScript Prototypes - Workshop",
+            "homepage": null,
             "id": 19851567,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-06-05T13:08:04Z",
+            "open_issues": 12,
             "owner": "sporto",
             "repo": "planetproto",
-            "stars": 221
+            "stars": 221,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -656,12 +893,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Workshopper module that teaches you to use promises in javascript",
+            "homepage": null,
             "id": 14903245,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-04-21T14:51:36Z",
+            "open_issues": 45,
             "owner": "stevekane",
             "repo": "promise-it-wont-hurt",
-            "stars": 737
+            "stars": 737,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -672,12 +914,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security workshop",
+            "homepage": null,
             "id": 29678811,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-07-27T12:14:52Z",
+            "open_issues": 0,
             "owner": "SomeoneWeird",
             "repo": "secureyournode",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -688,12 +935,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go on an educational Web security adventure!",
+            "homepage": null,
             "id": 12917308,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2013-09-27T02:39:02Z",
+            "open_issues": 4,
             "owner": "toolness",
             "repo": "security-adventure",
-            "stars": 335
+            "stars": 335,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -704,12 +956,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "go on an educational stream adventure!",
+            "homepage": null,
             "id": 10733929,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-18T05:13:00Z",
+            "open_issues": 21,
             "owner": "workshopper",
             "repo": "stream-adventure",
-            "stars": 2064
+            "stars": 2064,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -720,12 +977,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An adventure workshop to teach CSS",
+            "homepage": "https://www.npmjs.org/package/stylist-workshop",
             "id": 26936163,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-12-06T15:09:19Z",
+            "open_issues": 6,
             "owner": "alanshaw",
             "repo": "stylist",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -736,12 +998,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":cyclone: Learn R, in R.",
+            "homepage": "http://swirlstats.com",
             "id": 13523710,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2023-10-27T18:00:31Z",
+            "open_issues": 325,
             "owner": "swirldev",
             "repo": "swirl",
-            "stars": 1217
+            "stars": 1217,
+            "topics": [
+              "r"
+            ]
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -752,12 +1021,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn how to test with tape! (tap-producing test harness for node)",
+            "homepage": null,
             "id": 29185829,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2015-01-26T10:15:53Z",
+            "open_issues": 2,
             "owner": "tomgco",
             "repo": "tapeshopper",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -768,12 +1042,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":mortar_board: Learn to test your code",
+            "homepage": "http://nodeschool.io/",
             "id": 22466241,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-04-02T19:32:03Z",
+            "open_issues": 0,
             "owner": "workshopper",
             "repo": "test-anything",
-            "stars": 170
+            "stars": 170,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -784,12 +1063,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":lollipop: Thinking in React workshopper",
+            "homepage": null,
             "id": 19908047,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-04-04T11:58:00Z",
+            "open_issues": 2,
             "owner": "asbjornenge",
             "repo": "thinking-in-react",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -800,12 +1084,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tower of babel is tour of babel",
+            "homepage": null,
             "id": 33443348,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-19T16:35:41Z",
+            "open_issues": 42,
             "owner": "yosuke-furukawa",
             "repo": "tower-of-babel",
-            "stars": 599
+            "stars": 599,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
         },
@@ -818,12 +1107,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple exercise loader & generators for substack/adventure.",
+                "homepage": null,
                 "id": 25136729,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-01-30T20:42:04Z",
+                "open_issues": 4,
                 "owner": "timoxley",
                 "repo": "adventure-map",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:55.347Z"
             },
@@ -834,12 +1128,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a web based environment for doing nodeschool adventures",
+                "homepage": null,
                 "id": 25416194,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-09-26T22:11:24Z",
+                "open_issues": 6,
                 "owner": "max-mapper",
                 "repo": "adventure-time",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:55.347Z"
             },
@@ -850,12 +1149,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A generator for the marvelous workshopper from nodeschool.io",
+                "homepage": null,
                 "id": 27345009,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2014-12-16T18:13:41Z",
+                "open_issues": 0,
                 "owner": "MindCookin",
                 "repo": "generator-workshopper",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:22:55.347Z"
             }
@@ -869,15 +1173,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:22:55.347Z",
+    "last_updated": "2026-08-29T03:55:22.173Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
+      "homepage": null,
       "id": 31267860,
       "language": null,
+      "license": null,
       "last_commit": "2021-03-03T04:05:01Z",
+      "open_issues": 2,
       "owner": "therebelrobot",
       "repo": "awesome-workshopper",
-      "stars": 2265
+      "stars": 2264,
+      "topics": []
     },
     "original_repository_sha": "5c19be2962ba93c2f8c10576cb3cf210219c4d44",
     "enhanced_repository": "enhansome/enhansome-workshopper",
