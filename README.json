@@ -338,7 +338,7 @@
             "open_issues": 83,
             "owner": "timoxley",
             "repo": "functional-javascript-workshop",
-            "stars": 2040,
+            "stars": 2037,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -510,7 +510,7 @@
             "open_issues": 8,
             "owner": "workshopper",
             "repo": "javascripting",
-            "stars": 2906,
+            "stars": 2904,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -644,7 +644,7 @@
             "open_issues": 113,
             "owner": "workshopper",
             "repo": "learnyounode",
-            "stars": 7392,
+            "stars": 7390,
             "topics": [
               "learn-to-code",
               "learning-by-doing",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T00:44:14.612Z",
+    "last_updated": "2026-09-09T00:42:48.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
