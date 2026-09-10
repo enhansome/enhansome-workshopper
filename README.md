@@ -2,7 +2,7 @@
 
 *alternatively, awesome-adventure*
 
-A list of workshopper/adventure-based tutorials for various things. Inspired by awesome. These are terminal-based guides to learning a new programming concept. Here's an example screenshot from rvagg's [learnyounode](https://github.com/workshopper/learnyounode) ⭐ 7,390 | 🐛 113 | 🌐 HTML | 📅 2021-12-04:
+A list of workshopper/adventure-based tutorials for various things. Inspired by awesome. These are terminal-based guides to learning a new programming concept. Here's an example screenshot from rvagg's [learnyounode](https://github.com/workshopper/learnyounode) ⭐ 7,389 | 🐛 113 | 🌐 HTML | 📅 2021-12-04:
 
 ![Learn You The Node.js For Much Win!](https://raw.github.com/rvagg/learnyounode/master/learnyounode.png)
 
@@ -12,18 +12,18 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 
 | Project Name                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| Adventure [substack/adventure](https://github.com/substack/adventure) ⭐ 114 \| 🐛 8 \| 🌐 JavaScript \| 📅 2022-12-30          |
-| Workshopper [rvagg/workshopper](https://github.com/workshopper/workshopper) ⭐ 1,107 \| 🐛 30 \| 🌐 JavaScript \| 📅 2024-07-17 |
+| Adventure [substack/adventure](https://github.com/substack/adventure) ⭐ 112 \| 🐛 8 \| 🌐 JavaScript \| 📅 2022-12-30          |
+| Workshopper [rvagg/workshopper](https://github.com/workshopper/workshopper) ⭐ 1,106 \| 🐛 30 \| 🌐 JavaScript \| 📅 2024-07-17 |
 
 ## Workshoppers
 
 | Module Name                                                                                                                                     | Description                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [algorithms-101](https://github.com/linclark/algorithms-101) ⭐ 80 \| 🐛 2 \| 🌐 JavaScript \| 📅 2014-08-07                                     | Introduction to algorithms                                                                         |
-| [async-you](https://github.com/bulkan/async-you) ⭐ 116 \| 🐛 1 \| 🌐 JavaScript \| 📅 2023-09-11                                                | Learn to use <https://github.com/caolan/async> ⭐ 28,132 \| 🐛 24 \| 🌐 JavaScript \| 📅 2026-08-07 |
+| [async-you](https://github.com/bulkan/async-you) ⭐ 116 \| 🐛 1 \| 🌐 JavaScript \| 📅 2023-09-11                                                | Learn to use <https://github.com/caolan/async> ⭐ 28,131 \| 🐛 24 \| 🌐 JavaScript \| 📅 2026-08-07 |
 | [bacon-love](https://github.com/mikaelbr/bacon-love) ⭐ 50 \| 🐛 5 \| 🌐 JavaScript \| 📅 2017-01-08                                             | Functional Reactive Programming and Bacon.js                                                       |
 | [biohacker](https://github.com/bionode/biohacker) ⚠️ Archived                                                                                   | Gives some usage examples of bionode for bioinformatics                                            |
-| [browserify-adventure](https://github.com/substack/browserify-adventure) ⭐ 143 \| 🐛 12 \| 🌐 JavaScript \| 📅 2016-06-20                       | Learn browserify                                                                                   |
+| [browserify-adventure](https://github.com/substack/browserify-adventure) ⭐ 141 \| 🐛 12 \| 🌐 JavaScript \| 📅 2016-06-20                       | Learn browserify                                                                                   |
 | [bug-clinic](https://github.com/othiym23/bug-clinic) ⭐ 179 \| 🐛 12 \| 🌐 JavaScript \| 📅 2021-04-21                                           | Learn how to debug Node.js apps                                                                    |
 | [bytewiser](https://github.com/maxogden/bytewiser) ⭐ 210 \| 🐛 7 \| 🌐 HTML \| 📅 2018-10-07                                                    | Teaches the fundamentals of working with binary data in node.js and HTML5 browsers                 |
 | [count-to-6](https://github.com/domenic/count-to-6) ⭐ 324 \| 🐛 16 \| 🌐 JavaScript \| 📅 2017-10-20                                            | An intro to some ES6 features                                                                      |
@@ -33,8 +33,8 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [footballbot-workshop](https://github.com/alanshaw/footballbot-workshop)                                                                        | A step by step guide to building your own footballbot (robotics)                                   |
 | [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) ⭐ 2,037 \| 🐛 83 \| 🌐 JavaScript \| 📅 2020-10-08 | A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.            |
 | [git-it](https://github.com/jlord/git-it) ⭐ 1,979 \| 🐛 23 \| 🌐 HTML \| 📅 2022-03-08                                                          | A workshopper for learning Git and GitHub.                                                         |
-| [goingnative](https://github.com/workshopper/goingnative) ⭐ 415 \| 🐛 14 \| 🌐 JavaScript \| 📅 2021-08-24                                      | Learn how to write native Node.js addons                                                           |
-| [how-to-npm](https://github.com/npm/how-to-npm) ⭐ 1,211 \| 🐛 33 \| 🌐 JavaScript \| 📅 2022-03-28                                              | A module to teach you how to module.                                                               |
+| [goingnative](https://github.com/workshopper/goingnative) ⭐ 413 \| 🐛 14 \| 🌐 JavaScript \| 📅 2021-08-24                                      | Learn how to write native Node.js addons                                                           |
+| [how-to-npm](https://github.com/npm/how-to-npm) ⭐ 1,212 \| 🐛 33 \| 🌐 JavaScript \| 📅 2022-03-28                                              | A module to teach you how to module.                                                               |
 | [http-adventure](https://github.com/yoshuawuyts/http-adventure) ⭐ 9 \| 🐛 2 \| 🌐 JavaScript \| 📅 2014-12-21                                   | \[wip] Learn node's http module.                                                                   |
 | [http-works](https://github.com/Raynos/http-works) ⭐ 32 \| 🐛 0 \| 🌐 JavaScript \| 📅 2014-03-14                                               | http framework                                                                                     |
 | [intro-to-node](https://github.com/sherodtaylor/intro-to-node) ⭐ 11 \| 🐛 1 \| 🌐 JavaScript \| 📅 2014-10-30                                   | An intro to Node.js                                                                                |
@@ -46,13 +46,13 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [learnjs](https://github.com/mikeal/learnjs) ⭐ 23 \| 🐛 2 \| 🌐 JavaScript \| 📅 2017-07-11                                                     | Introduction to Javascript                                                                         |
 | [learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb) ⭐ 44 \| 🐛 30 \| 🌐 JavaScript \| 📅 2017-03-09                            | Learn you CouchDB for great good!                                                                  |
 | [learnyoumongodb](https://github.com/braz/learnyoumongodb) ⭐ 18 \| 🐛 2 \| 🌐 JavaScript \| 📅 2019-02-22                                       | Learn MongoDB using the terminal                                                                   |
-| [learnyounode](https://github.com/workshopper/learnyounode) ⭐ 7,390 \| 🐛 113 \| 🌐 HTML \| 📅 2021-12-04                                       | Learn You The Node.js For Much Win! An intro to Node.js                                            |
+| [learnyounode](https://github.com/workshopper/learnyounode) ⭐ 7,389 \| 🐛 113 \| 🌐 HTML \| 📅 2021-12-04                                       | Learn You The Node.js For Much Win! An intro to Node.js                                            |
 | [levelmeup](https://github.com/workshopper/levelmeup) ⭐ 269 \| 🐛 7 \| 🌐 JavaScript \| 📅 2022-12-06                                           | Level Me Up Scotty! An intro to Node.js databases                                                  |
 | [lololodash](https://github.com/mdunisch/lololodash) ⭐ 84 \| 🐛 3 \| 🌐 JavaScript \| 📅 2024-03-04                                             | Lo-Dash Javascript Exercises                                                                       |
 | [makemehapi](https://github.com/nvcexploder/makemehapi) ⭐ 0 \| 🐛 0 \| 🌐 JavaScript \| 📅 2015-03-03                                           | Introduction to Hapi                                                                               |
 | [mongodb-aggregate-adventure](https://github.com/braz/mongodb-aggregate-adventure) ⭐ 5 \| 🐛 0 \| 🌐 JavaScript \| 📅 2014-03-17                | A series of MongoDB aggregation workshops                                                          |
 | [mongoose-adventure](https://github.com/wearefractal/mongoose-adventure) ⭐ 5 \| 🐛 1 \| 🌐 JavaScript \| 📅 2013-10-19                          | Introduction to Mongoose                                                                           |
-| [node-debug-school](https://github.com/joyent/node-debug-school) ⭐ 50 \| 🐛 9 \| 🌐 JavaScript \| 📅 2018-08-24                                 | nodeschool curriculum for debugging Node.js                                                        |
+| [node-debug-school](https://github.com/joyent/node-debug-school) ⭐ 48 \| 🐛 9 \| 🌐 JavaScript \| 📅 2018-08-24                                 | nodeschool curriculum for debugging Node.js                                                        |
 | [nodebot-workshop](https://github.com/tableflip/nodebot-workshop) ⭐ 211 \| 🐛 6 \| 🌐 JavaScript \| 📅 2024-05-20                               | Arduino / Johnny-five (robotics)                                                                   |
 | [nodenext](https://github.com/geek/nodenext) ⭐ 0 \| 🐛 0 \| 🌐 JavaScript \| 📅 2013-12-16                                                      | Learn about the next version of node                                                               |
 | [npm-tutor](https://github.com/timoxley/npm-tutor) ⭐ 24 \| 🐛 3 \| 🌐 JavaScript \| 📅 2014-11-18                                               | npm tutor for nodeconf 2014                                                                        |
@@ -65,7 +65,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [stylist-workshop](https://github.com/alanshaw/stylist) ⭐ 43 \| 🐛 6 \| 🌐 JavaScript \| 📅 2014-12-06                                          | Introduction to CSS                                                                                |
 | [swirl](https://github.com/swirldev/swirl) ⭐ 1,218 \| 🐛 325 \| 🌐 R \| 📅 2023-10-27                                                           | Learn the statistical computing and graphics programming language R, in R                          |
 | [tapeshopper](https://github.com/tomgco/tapeshopper) ⭐ 5 \| 🐛 2 \| 🌐 JavaScript \| 📅 2015-01-26                                              | Learn how to test with tape! (tap-producing test harness for node)                                 |
-| [test-anything](https://github.com/finnp/test-anything) ⭐ 170 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-04-02                                         | Introduction to testing                                                                            |
+| [test-anything](https://github.com/finnp/test-anything) ⭐ 169 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-04-02                                         | Introduction to testing                                                                            |
 | [thinking-in-react](https://github.com/asbjornenge/thinking-in-react) ⭐ 179 \| 🐛 2 \| 🌐 JavaScript \| 📅 2017-04-04                           | Introduction to React                                                                              |
 | [tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel) ⭐ 599 \| 🐛 42 \| 🌐 JavaScript \| 📅 2025-11-19                            | A tour of the features of Babel.js                                                                 |
 | [unix-adventure](https://github.com/substack/unix-adventure)                                                                                    | become a unix wizard                                                                               |
@@ -113,4 +113,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
