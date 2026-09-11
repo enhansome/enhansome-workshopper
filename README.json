@@ -114,7 +114,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-07T17:03:35Z",
-            "open_issues": 24,
+            "open_issues": 26,
             "owner": "caolan",
             "repo": "async",
             "stars": 28131,
@@ -212,7 +212,7 @@
             "open_issues": 12,
             "owner": "othiym23",
             "repo": "bug-clinic",
-            "stars": 179,
+            "stars": 178,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -233,7 +233,7 @@
             "open_issues": 7,
             "owner": "max-mapper",
             "repo": "bytewiser",
-            "stars": 210,
+            "stars": 209,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -338,7 +338,7 @@
             "open_issues": 83,
             "owner": "timoxley",
             "repo": "functional-javascript-workshop",
-            "stars": 2037,
+            "stars": 2036,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -359,7 +359,7 @@
             "open_issues": 23,
             "owner": "jlord",
             "repo": "git-it",
-            "stars": 1979,
+            "stars": 1980,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -401,7 +401,7 @@
             "open_issues": 33,
             "owner": "workshopper",
             "repo": "how-to-npm",
-            "stars": 1212,
+            "stars": 1213,
             "topics": [
               "javascript",
               "nodeschool",
@@ -581,7 +581,7 @@
             "open_issues": 2,
             "owner": "mikeal",
             "repo": "learnjs",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -602,7 +602,7 @@
             "open_issues": 30,
             "owner": "robertkowalski",
             "repo": "learnyoucouchdb",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -644,7 +644,7 @@
             "open_issues": 113,
             "owner": "workshopper",
             "repo": "learnyounode",
-            "stars": 7389,
+            "stars": 7388,
             "topics": [
               "learn-to-code",
               "learning-by-doing",
@@ -965,7 +965,7 @@
             "open_issues": 21,
             "owner": "workshopper",
             "repo": "stream-adventure",
-            "stars": 2064,
+            "stars": 2063,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -986,7 +986,7 @@
             "open_issues": 6,
             "owner": "alanshaw",
             "repo": "stylist",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:39:32.586Z",
+    "last_updated": "2026-09-11T00:36:10.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
