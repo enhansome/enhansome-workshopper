@@ -117,7 +117,7 @@
             "open_issues": 26,
             "owner": "caolan",
             "repo": "async",
-            "stars": 28131,
+            "stars": 28132,
             "topics": [
               "async",
               "callbacks",
@@ -401,7 +401,7 @@
             "open_issues": 33,
             "owner": "workshopper",
             "repo": "how-to-npm",
-            "stars": 1213,
+            "stars": 1214,
             "topics": [
               "javascript",
               "nodeschool",
@@ -644,7 +644,7 @@
             "open_issues": 113,
             "owner": "workshopper",
             "repo": "learnyounode",
-            "stars": 7388,
+            "stars": 7386,
             "topics": [
               "learn-to-code",
               "learning-by-doing",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T00:36:10.676Z",
+    "last_updated": "2026-09-12T00:42:50.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
