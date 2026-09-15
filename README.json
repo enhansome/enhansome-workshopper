@@ -67,7 +67,7 @@
             "open_issues": 2,
             "owner": "linclark",
             "repo": "algorithms-101",
-            "stars": 80,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -510,7 +510,7 @@
             "open_issues": 8,
             "owner": "workshopper",
             "repo": "javascripting",
-            "stars": 2904,
+            "stars": 2903,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:29:26.736Z",
+    "last_updated": "2026-09-15T00:59:10.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
@@ -1185,7 +1185,7 @@
       "open_issues": 2,
       "owner": "therebelrobot",
       "repo": "awesome-workshopper",
-      "stars": 2270,
+      "stars": 2269,
       "topics": []
     },
     "original_repository_sha": "5c19be2962ba93c2f8c10576cb3cf210219c4d44",
