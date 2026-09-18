@@ -114,7 +114,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-07T17:03:35Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "caolan",
             "repo": "async",
             "stars": 28130,
@@ -338,7 +338,7 @@
             "open_issues": 83,
             "owner": "timoxley",
             "repo": "functional-javascript-workshop",
-            "stars": 2036,
+            "stars": 2035,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -510,7 +510,7 @@
             "open_issues": 8,
             "owner": "workshopper",
             "repo": "javascripting",
-            "stars": 2903,
+            "stars": 2902,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -1004,7 +1004,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2023-10-27T18:00:31Z",
-            "open_issues": 325,
+            "open_issues": 326,
             "owner": "swirldev",
             "repo": "swirl",
             "stars": 1220,
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T00:54:45.909Z",
+    "last_updated": "2026-09-18T00:49:19.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
@@ -1185,7 +1185,7 @@
       "open_issues": 2,
       "owner": "therebelrobot",
       "repo": "awesome-workshopper",
-      "stars": 2269,
+      "stars": 2270,
       "topics": []
     },
     "original_repository_sha": "5c19be2962ba93c2f8c10576cb3cf210219c4d44",
