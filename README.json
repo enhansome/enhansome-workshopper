@@ -114,10 +114,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-07T17:03:35Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "caolan",
             "repo": "async",
-            "stars": 28130,
+            "stars": 28129,
             "topics": [
               "async",
               "callbacks",
@@ -965,7 +965,7 @@
             "open_issues": 21,
             "owner": "workshopper",
             "repo": "stream-adventure",
-            "stars": 2063,
+            "stars": 2064,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:26:36.462Z",
+    "last_updated": "2026-09-21T00:34:02.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
@@ -1185,7 +1185,7 @@
       "open_issues": 2,
       "owner": "therebelrobot",
       "repo": "awesome-workshopper",
-      "stars": 2273,
+      "stars": 2275,
       "topics": []
     },
     "original_repository_sha": "5c19be2962ba93c2f8c10576cb3cf210219c4d44",
