@@ -114,7 +114,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-21T21:54:35Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "caolan",
             "repo": "async",
             "stars": 28127,
@@ -644,7 +644,7 @@
             "open_issues": 113,
             "owner": "workshopper",
             "repo": "learnyounode",
-            "stars": 7380,
+            "stars": 7381,
             "topics": [
               "learn-to-code",
               "learning-by-doing",
@@ -1007,7 +1007,7 @@
             "open_issues": 326,
             "owner": "swirldev",
             "repo": "swirl",
-            "stars": 1220,
+            "stars": 1221,
             "topics": [
               "r"
             ]
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T00:55:29.856Z",
+    "last_updated": "2026-09-25T00:55:43.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
@@ -1185,7 +1185,7 @@
       "open_issues": 2,
       "owner": "therebelrobot",
       "repo": "awesome-workshopper",
-      "stars": 2277,
+      "stars": 2278,
       "topics": []
     },
     "original_repository_sha": "5c19be2962ba93c2f8c10576cb3cf210219c4d44",
