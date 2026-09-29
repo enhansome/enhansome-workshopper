@@ -113,11 +113,11 @@
             "id": 698041,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T21:54:35Z",
+            "last_commit": "2026-09-28T20:13:38Z",
             "open_issues": 9,
             "owner": "caolan",
             "repo": "async",
-            "stars": 28121,
+            "stars": 28120,
             "topics": [
               "async",
               "callbacks",
@@ -338,7 +338,7 @@
             "open_issues": 83,
             "owner": "timoxley",
             "repo": "functional-javascript-workshop",
-            "stars": 2034,
+            "stars": 2033,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -401,7 +401,7 @@
             "open_issues": 33,
             "owner": "workshopper",
             "repo": "how-to-npm",
-            "stars": 1214,
+            "stars": 1215,
             "topics": [
               "javascript",
               "nodeschool",
@@ -644,7 +644,7 @@
             "open_issues": 113,
             "owner": "workshopper",
             "repo": "learnyounode",
-            "stars": 7381,
+            "stars": 7382,
             "topics": [
               "learn-to-code",
               "learning-by-doing",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:14:14.368Z",
+    "last_updated": "2026-09-29T02:20:22.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
