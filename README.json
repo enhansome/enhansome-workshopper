@@ -359,7 +359,7 @@
             "open_issues": 23,
             "owner": "jlord",
             "repo": "git-it",
-            "stars": 1982,
+            "stars": 1983,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T02:20:22.034Z",
+    "last_updated": "2026-09-30T01:38:43.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
