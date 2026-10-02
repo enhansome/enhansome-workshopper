@@ -113,8 +113,8 @@
             "id": 698041,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T20:13:38Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-01T15:34:00Z",
+            "open_issues": 22,
             "owner": "caolan",
             "repo": "async",
             "stars": 28120,
@@ -401,7 +401,7 @@
             "open_issues": 33,
             "owner": "workshopper",
             "repo": "how-to-npm",
-            "stars": 1215,
+            "stars": 1216,
             "topics": [
               "javascript",
               "nodeschool",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:36:49.296Z",
+    "last_updated": "2026-10-02T01:50:06.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
