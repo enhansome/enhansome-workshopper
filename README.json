@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Adventure substack/adventure",
-          "description": null,
+          "description": "workshopper/adventure",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Workshopper rvagg/workshopper",
-          "description": null,
+          "description": "workshopper/workshopper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -75,7 +75,7 @@
         {
           "node_type": "item",
           "title": "async-you",
-          "description": null,
+          "description": "bulkan/async-you",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -104,7 +104,7 @@
         {
           "node_type": "item",
           "title": "Learn to use https://github.com/caolan/async",
-          "description": null,
+          "description": "caolan/async",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:29:23.593Z",
+    "last_updated": "2026-10-03T05:17:03.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
