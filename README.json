@@ -510,7 +510,7 @@
             "open_issues": 8,
             "owner": "workshopper",
             "repo": "javascripting",
-            "stars": 2902,
+            "stars": 2904,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -902,7 +902,7 @@
             "open_issues": 45,
             "owner": "stevekane",
             "repo": "promise-it-wont-hurt",
-            "stars": 738,
+            "stars": 736,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:17:03.756Z",
+    "last_updated": "2026-10-04T02:01:00.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",

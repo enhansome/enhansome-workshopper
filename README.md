@@ -39,7 +39,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [http-works](https://github.com/Raynos/http-works) ⭐ 32 \| 🐛 0 \| 🌐 JavaScript \| 📅 2014-03-14                                               | http framework                                                                                     |
 | [intro-to-node](https://github.com/sherodtaylor/intro-to-node) ⭐ 11 \| 🐛 1 \| 🌐 JavaScript \| 📅 2014-10-30                                   | An intro to Node.js                                                                                |
 | [introtowebgl](https://github.com/alexmackey/IntroToWebGLWithThreeJS) ⭐ 164 \| 🐛 3 \| 🌐 JavaScript \| 📅 2017-01-28                           | Intro to WebGL with three.js                                                                       |
-| [javascripting](https://github.com/sethvincent/javascripting) ⭐ 2,902 \| 🐛 8 \| 🌐 JavaScript \| 📅 2026-09-02                                 | Learn JavaScript by adventuring around in the terminal                                             |
+| [javascripting](https://github.com/sethvincent/javascripting) ⭐ 2,904 \| 🐛 8 \| 🌐 JavaScript \| 📅 2026-09-02                                 | Learn JavaScript by adventuring around in the terminal                                             |
 | [jsadventure](https://github.com/mk30/jsadventure)                                                                                              | Introduction to Javascript. No programming experience needed.                                      |
 | [kick-off-koa](https://github.com/koajs/kick-off-koa) ⚠️ Archived                                                                               | An intro to koa                                                                                    |
 | [learn-generators](https://github.com/isRuslan/learn-generators) ⭐ 267 \| 🐛 2 \| 🌐 JavaScript \| 📅 2024-07-08                                | JavaScript ES(6\|2015) generators workshopper. Learn in practice. :metal:                          |
@@ -58,7 +58,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [npm-tutor](https://github.com/timoxley/npm-tutor) ⭐ 24 \| 🐛 3 \| 🌐 JavaScript \| 📅 2014-11-18                                               | npm tutor for nodeconf 2014                                                                        |
 | [oobootcamp](https://github.com/winsonwq/OOBootcamp.js) ⭐ 10 \| 🐛 0 \| 🌐 JavaScript \| 📅 2014-03-31                                          | Object-Oriented JavaScript Bootcamp                                                                |
 | [planetproto](https://github.com/sporto/planetproto) ⚠️ Archived                                                                                | Understanding JavaScript Prototypes                                                                |
-| [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt) ⭐ 738 \| 🐛 45 \| 🌐 JavaScript \| 📅 2021-04-21                      | A Workshopper module that teaches you to use promises in javascript                                |
+| [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt) ⭐ 736 \| 🐛 45 \| 🌐 JavaScript \| 📅 2021-04-21                      | A Workshopper module that teaches you to use promises in javascript                                |
 | [secureyournode](https://github.com/someoneweird/secureyournode) ⭐ 27 \| 🐛 0 \| 🌐 JavaScript \| 📅 2015-07-27                                 | Security workshop                                                                                  |
 | [security-adventure](https://github.com/toolness/security-adventure) ⭐ 335 \| 🐛 4 \| 🌐 JavaScript \| 📅 2013-09-27                            | Go on an educational Web security adventure!                                                       |
 | [stream-adventure](https://github.com/substack/stream-adventure) ⭐ 2,064 \| 🐛 21 \| 🌐 JavaScript \| 📅 2022-11-18                             | go on an educational stream adventure!                                                             |
@@ -113,4 +113,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
