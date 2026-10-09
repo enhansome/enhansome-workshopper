@@ -552,7 +552,7 @@
             "open_issues": 2,
             "owner": "isRuslan",
             "repo": "learn-generators",
-            "stars": 267,
+            "stars": 266,
             "topics": [
               "es6-generators",
               "generators",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:18:10.235Z",
+    "last_updated": "2026-10-09T02:35:45.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",

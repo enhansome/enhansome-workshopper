@@ -42,7 +42,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [javascripting](https://github.com/sethvincent/javascripting) ⭐ 2,903 \| 🐛 8 \| 🌐 JavaScript \| 📅 2026-09-02                                 | Learn JavaScript by adventuring around in the terminal                                             |
 | [jsadventure](https://github.com/mk30/jsadventure)                                                                                              | Introduction to Javascript. No programming experience needed.                                      |
 | [kick-off-koa](https://github.com/koajs/kick-off-koa) ⚠️ Archived                                                                               | An intro to koa                                                                                    |
-| [learn-generators](https://github.com/isRuslan/learn-generators) ⭐ 267 \| 🐛 2 \| 🌐 JavaScript \| 📅 2024-07-08                                | JavaScript ES(6\|2015) generators workshopper. Learn in practice. :metal:                          |
+| [learn-generators](https://github.com/isRuslan/learn-generators) ⭐ 266 \| 🐛 2 \| 🌐 JavaScript \| 📅 2024-07-08                                | JavaScript ES(6\|2015) generators workshopper. Learn in practice. :metal:                          |
 | [learnjs](https://github.com/mikeal/learnjs) ⭐ 24 \| 🐛 2 \| 🌐 JavaScript \| 📅 2017-07-11                                                     | Introduction to Javascript                                                                         |
 | [learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb) ⭐ 45 \| 🐛 30 \| 🌐 JavaScript \| 📅 2017-03-09                            | Learn you CouchDB for great good!                                                                  |
 | [learnyoumongodb](https://github.com/braz/learnyoumongodb) ⭐ 18 \| 🐛 2 \| 🌐 JavaScript \| 📅 2019-02-22                                       | Learn MongoDB using the terminal                                                                   |
@@ -113,4 +113,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
