@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "workshopper",
             "repo": "adventure",
-            "stars": 112,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -117,7 +117,7 @@
             "open_issues": 31,
             "owner": "caolan",
             "repo": "async",
-            "stars": 28120,
+            "stars": 28119,
             "topics": [
               "async",
               "callbacks",
@@ -359,7 +359,7 @@
             "open_issues": 23,
             "owner": "jlord",
             "repo": "git-it",
-            "stars": 1983,
+            "stars": 1982,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -510,7 +510,7 @@
             "open_issues": 8,
             "owner": "workshopper",
             "repo": "javascripting",
-            "stars": 2903,
+            "stars": 2904,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -776,7 +776,7 @@
             "open_issues": 9,
             "owner": "TritonDataCenter",
             "repo": "node-debug-school",
-            "stars": 48,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -986,7 +986,7 @@
             "open_issues": 6,
             "owner": "alanshaw",
             "repo": "stylist",
-            "stars": 44,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:35:45.775Z",
+    "last_updated": "2026-10-10T01:56:25.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
@@ -1185,7 +1185,7 @@
       "open_issues": 2,
       "owner": "therebelrobot",
       "repo": "awesome-workshopper",
-      "stars": 2284,
+      "stars": 2285,
       "topics": []
     },
     "original_repository_sha": "5c19be2962ba93c2f8c10576cb3cf210219c4d44",
