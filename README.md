@@ -20,7 +20,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | Module Name                                                                                                                                     | Description                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [algorithms-101](https://github.com/linclark/algorithms-101) ⭐ 79 \| 🐛 2 \| 🌐 JavaScript \| 📅 2014-08-07                                     | Introduction to algorithms                                                                         |
-| [async-you](https://github.com/bulkan/async-you) ⭐ 116 \| 🐛 1 \| 🌐 JavaScript \| 📅 2023-09-11                                                | Learn to use <https://github.com/caolan/async> ⭐ 28,117 \| 🐛 31 \| 🌐 JavaScript \| 📅 2026-10-01 |
+| [async-you](https://github.com/bulkan/async-you) ⭐ 116 \| 🐛 1 \| 🌐 JavaScript \| 📅 2023-09-11                                                | Learn to use <https://github.com/caolan/async> ⭐ 28,117 \| 🐛 34 \| 🌐 JavaScript \| 📅 2026-10-01 |
 | [bacon-love](https://github.com/mikaelbr/bacon-love) ⭐ 50 \| 🐛 5 \| 🌐 JavaScript \| 📅 2017-01-08                                             | Functional Reactive Programming and Bacon.js                                                       |
 | [biohacker](https://github.com/bionode/biohacker) ⚠️ Archived                                                                                   | Gives some usage examples of bionode for bioinformatics                                            |
 | [browserify-adventure](https://github.com/substack/browserify-adventure) ⭐ 141 \| 🐛 12 \| 🌐 JavaScript \| 📅 2016-06-20                       | Learn browserify                                                                                   |
@@ -31,7 +31,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [es5-workshop](https://github.com/timoxley/es5-workshop) ⭐ 3 \| 🐛 0 \| 🌐 JavaScript \| 📅 2014-08-13                                          | Introduction to ES5 methods                                                                        |
 | [expressworks](https://github.com/azat-co/expressworks) ⭐ 735 \| 🐛 18 \| 🌐 JavaScript \| 📅 2024-03-21                                        | an automated Express.js workshop                                                                   |
 | [footballbot-workshop](https://github.com/alanshaw/footballbot-workshop)                                                                        | A step by step guide to building your own footballbot (robotics)                                   |
-| [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) ⭐ 2,033 \| 🐛 83 \| 🌐 JavaScript \| 📅 2020-10-08 | A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.            |
+| [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) ⭐ 2,032 \| 🐛 83 \| 🌐 JavaScript \| 📅 2020-10-08 | A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.            |
 | [git-it](https://github.com/jlord/git-it) ⭐ 1,982 \| 🐛 23 \| 🌐 HTML \| 📅 2022-03-08                                                          | A workshopper for learning Git and GitHub.                                                         |
 | [goingnative](https://github.com/workshopper/goingnative) ⭐ 413 \| 🐛 14 \| 🌐 JavaScript \| 📅 2021-08-24                                      | Learn how to write native Node.js addons                                                           |
 | [how-to-npm](https://github.com/npm/how-to-npm) ⭐ 1,214 \| 🐛 33 \| 🌐 JavaScript \| 📅 2022-03-28                                              | A module to teach you how to module.                                                               |
@@ -66,7 +66,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [swirl](https://github.com/swirldev/swirl) ⭐ 1,219 \| 🐛 326 \| 🌐 R \| 📅 2023-10-27                                                           | Learn the statistical computing and graphics programming language R, in R                          |
 | [tapeshopper](https://github.com/tomgco/tapeshopper) ⭐ 5 \| 🐛 2 \| 🌐 JavaScript \| 📅 2015-01-26                                              | Learn how to test with tape! (tap-producing test harness for node)                                 |
 | [test-anything](https://github.com/finnp/test-anything) ⭐ 169 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-04-02                                         | Introduction to testing                                                                            |
-| [thinking-in-react](https://github.com/asbjornenge/thinking-in-react) ⭐ 179 \| 🐛 2 \| 🌐 JavaScript \| 📅 2017-04-04                           | Introduction to React                                                                              |
+| [thinking-in-react](https://github.com/asbjornenge/thinking-in-react) ⭐ 178 \| 🐛 2 \| 🌐 JavaScript \| 📅 2017-04-04                           | Introduction to React                                                                              |
 | [tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel) ⭐ 599 \| 🐛 42 \| 🌐 JavaScript \| 📅 2025-11-19                            | A tour of the features of Babel.js                                                                 |
 | [unix-adventure](https://github.com/substack/unix-adventure)                                                                                    | become a unix wizard                                                                               |
 
@@ -113,4 +113,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
