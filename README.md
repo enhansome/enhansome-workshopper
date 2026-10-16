@@ -29,12 +29,12 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [count-to-6](https://github.com/domenic/count-to-6) ⭐ 324 \| 🐛 16 \| 🌐 JavaScript \| 📅 2017-10-20                                            | An intro to some ES6 features                                                                      |
 | [data-plumber](https://github.com/maxogden/data-plumber) ⭐ 36 \| 🐛 7 \| 🌐 JavaScript \| 📅 2015-08-20                                         | Munging data on the command line                                                                   |
 | [es5-workshop](https://github.com/timoxley/es5-workshop) ⭐ 3 \| 🐛 0 \| 🌐 JavaScript \| 📅 2014-08-13                                          | Introduction to ES5 methods                                                                        |
-| [expressworks](https://github.com/azat-co/expressworks) ⭐ 734 \| 🐛 18 \| 🌐 JavaScript \| 📅 2024-03-21                                        | an automated Express.js workshop                                                                   |
+| [expressworks](https://github.com/azat-co/expressworks) ⭐ 735 \| 🐛 18 \| 🌐 JavaScript \| 📅 2024-03-21                                        | an automated Express.js workshop                                                                   |
 | [footballbot-workshop](https://github.com/alanshaw/footballbot-workshop)                                                                        | A step by step guide to building your own footballbot (robotics)                                   |
 | [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) ⭐ 2,032 \| 🐛 83 \| 🌐 JavaScript \| 📅 2020-10-08 | A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.            |
 | [git-it](https://github.com/jlord/git-it) ⭐ 1,982 \| 🐛 23 \| 🌐 HTML \| 📅 2022-03-08                                                          | A workshopper for learning Git and GitHub.                                                         |
 | [goingnative](https://github.com/workshopper/goingnative) ⭐ 414 \| 🐛 14 \| 🌐 JavaScript \| 📅 2021-08-24                                      | Learn how to write native Node.js addons                                                           |
-| [how-to-npm](https://github.com/npm/how-to-npm) ⭐ 1,214 \| 🐛 33 \| 🌐 JavaScript \| 📅 2022-03-28                                              | A module to teach you how to module.                                                               |
+| [how-to-npm](https://github.com/npm/how-to-npm) ⭐ 1,215 \| 🐛 33 \| 🌐 JavaScript \| 📅 2022-03-28                                              | A module to teach you how to module.                                                               |
 | [http-adventure](https://github.com/yoshuawuyts/http-adventure) ⭐ 9 \| 🐛 2 \| 🌐 JavaScript \| 📅 2014-12-21                                   | \[wip] Learn node's http module.                                                                   |
 | [http-works](https://github.com/Raynos/http-works) ⭐ 32 \| 🐛 0 \| 🌐 JavaScript \| 📅 2014-03-14                                               | http framework                                                                                     |
 | [intro-to-node](https://github.com/sherodtaylor/intro-to-node) ⭐ 11 \| 🐛 1 \| 🌐 JavaScript \| 📅 2014-10-30                                   | An intro to Node.js                                                                                |
@@ -58,7 +58,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [npm-tutor](https://github.com/timoxley/npm-tutor) ⭐ 24 \| 🐛 3 \| 🌐 JavaScript \| 📅 2014-11-18                                               | npm tutor for nodeconf 2014                                                                        |
 | [oobootcamp](https://github.com/winsonwq/OOBootcamp.js) ⭐ 10 \| 🐛 0 \| 🌐 JavaScript \| 📅 2014-03-31                                          | Object-Oriented JavaScript Bootcamp                                                                |
 | [planetproto](https://github.com/sporto/planetproto) ⚠️ Archived                                                                                | Understanding JavaScript Prototypes                                                                |
-| [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt) ⭐ 736 \| 🐛 45 \| 🌐 JavaScript \| 📅 2021-04-21                      | A Workshopper module that teaches you to use promises in javascript                                |
+| [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt) ⭐ 737 \| 🐛 45 \| 🌐 JavaScript \| 📅 2021-04-21                      | A Workshopper module that teaches you to use promises in javascript                                |
 | [secureyournode](https://github.com/someoneweird/secureyournode) ⭐ 27 \| 🐛 0 \| 🌐 JavaScript \| 📅 2015-07-27                                 | Security workshop                                                                                  |
 | [security-adventure](https://github.com/toolness/security-adventure) ⭐ 335 \| 🐛 4 \| 🌐 JavaScript \| 📅 2013-09-27                            | Go on an educational Web security adventure!                                                       |
 | [stream-adventure](https://github.com/substack/stream-adventure) ⭐ 2,063 \| 🐛 21 \| 🌐 JavaScript \| 📅 2022-11-18                             | go on an educational stream adventure!                                                             |
@@ -113,4 +113,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
