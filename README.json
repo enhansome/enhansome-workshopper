@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "workshopper",
             "repo": "adventure",
-            "stars": 112,
+            "stars": 113,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -117,7 +117,7 @@
             "open_issues": 34,
             "owner": "caolan",
             "repo": "async",
-            "stars": 28118,
+            "stars": 28117,
             "topics": [
               "async",
               "callbacks",
@@ -359,7 +359,7 @@
             "open_issues": 23,
             "owner": "jlord",
             "repo": "git-it",
-            "stars": 1982,
+            "stars": 1983,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -506,8 +506,8 @@
             "id": 24617126,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T11:44:51Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-19T01:01:46Z",
+            "open_issues": 7,
             "owner": "workshopper",
             "repo": "javascripting",
             "stars": 2905,
@@ -776,7 +776,7 @@
             "open_issues": 9,
             "owner": "TritonDataCenter",
             "repo": "node-debug-school",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -986,7 +986,7 @@
             "open_issues": 6,
             "owner": "alanshaw",
             "repo": "stylist",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T00:33:12.198Z",
+    "last_updated": "2026-10-20T01:18:38.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
@@ -1185,7 +1185,7 @@
       "open_issues": 2,
       "owner": "therebelrobot",
       "repo": "awesome-workshopper",
-      "stars": 2291,
+      "stars": 2293,
       "topics": []
     },
     "original_repository_sha": "5c19be2962ba93c2f8c10576cb3cf210219c4d44",
