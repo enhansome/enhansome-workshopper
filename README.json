@@ -114,10 +114,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-01T15:34:00Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "caolan",
             "repo": "async",
-            "stars": 28117,
+            "stars": 28116,
             "topics": [
               "async",
               "callbacks",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T00:58:03.183Z",
+    "last_updated": "2026-10-23T01:01:12.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
