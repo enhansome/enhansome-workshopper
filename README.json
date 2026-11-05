@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "workshopper",
             "repo": "adventure",
-            "stars": 113,
+            "stars": 112,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -317,7 +317,7 @@
             "open_issues": 18,
             "owner": "azat-co",
             "repo": "expressworks",
-            "stars": 734,
+            "stars": 733,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -401,7 +401,7 @@
             "open_issues": 33,
             "owner": "workshopper",
             "repo": "how-to-npm",
-            "stars": 1214,
+            "stars": 1215,
             "topics": [
               "javascript",
               "nodeschool",
@@ -644,7 +644,7 @@
             "open_issues": 113,
             "owner": "workshopper",
             "repo": "learnyounode",
-            "stars": 7382,
+            "stars": 7383,
             "topics": [
               "learn-to-code",
               "learning-by-doing",
@@ -776,7 +776,7 @@
             "open_issues": 9,
             "owner": "TritonDataCenter",
             "repo": "node-debug-school",
-            "stars": 49,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -986,7 +986,7 @@
             "open_issues": 6,
             "owner": "alanshaw",
             "repo": "stylist",
-            "stars": 44,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -1007,7 +1007,7 @@
             "open_issues": 327,
             "owner": "swirldev",
             "repo": "swirl",
-            "stars": 1222,
+            "stars": 1223,
             "topics": [
               "r"
             ]
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:45:25.603Z",
+    "last_updated": "2026-11-05T02:52:49.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
@@ -1185,7 +1185,7 @@
       "open_issues": 2,
       "owner": "therebelrobot",
       "repo": "awesome-workshopper",
-      "stars": 2300,
+      "stars": 2301,
       "topics": []
     },
     "original_repository_sha": "5c19be2962ba93c2f8c10576cb3cf210219c4d44",
