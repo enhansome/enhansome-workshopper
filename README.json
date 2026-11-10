@@ -1007,7 +1007,7 @@
             "open_issues": 327,
             "owner": "swirldev",
             "repo": "swirl",
-            "stars": 1223,
+            "stars": 1224,
             "topics": [
               "r"
             ]
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T02:03:55.972Z",
+    "last_updated": "2026-11-10T04:21:58.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
