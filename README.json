@@ -117,7 +117,7 @@
             "open_issues": 41,
             "owner": "caolan",
             "repo": "async",
-            "stars": 28116,
+            "stars": 28117,
             "topics": [
               "async",
               "callbacks",
@@ -510,7 +510,7 @@
             "open_issues": 7,
             "owner": "workshopper",
             "repo": "javascripting",
-            "stars": 2904,
+            "stars": 2905,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T02:17:38.499Z",
+    "last_updated": "2026-11-12T03:25:53.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
@@ -1185,7 +1185,7 @@
       "open_issues": 2,
       "owner": "therebelrobot",
       "repo": "awesome-workshopper",
-      "stars": 2303,
+      "stars": 2304,
       "topics": []
     },
     "original_repository_sha": "5c19be2962ba93c2f8c10576cb3cf210219c4d44",
