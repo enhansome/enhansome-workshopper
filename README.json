@@ -114,7 +114,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-01T15:33:39Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "caolan",
             "repo": "async",
             "stars": 28117,
@@ -317,7 +317,7 @@
             "open_issues": 18,
             "owner": "azat-co",
             "repo": "expressworks",
-            "stars": 733,
+            "stars": 732,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -1007,7 +1007,7 @@
             "open_issues": 327,
             "owner": "swirldev",
             "repo": "swirl",
-            "stars": 1225,
+            "stars": 1226,
             "topics": [
               "r"
             ]
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T03:25:53.897Z",
+    "last_updated": "2026-11-13T02:57:56.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
