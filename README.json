@@ -117,7 +117,7 @@
             "open_issues": 45,
             "owner": "caolan",
             "repo": "async",
-            "stars": 28120,
+            "stars": 28119,
             "topics": [
               "async",
               "callbacks",
@@ -317,7 +317,7 @@
             "open_issues": 18,
             "owner": "azat-co",
             "repo": "expressworks",
-            "stars": 732,
+            "stars": 731,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -338,7 +338,7 @@
             "open_issues": 83,
             "owner": "timoxley",
             "repo": "functional-javascript-workshop",
-            "stars": 2033,
+            "stars": 2032,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -359,7 +359,7 @@
             "open_issues": 23,
             "owner": "jlord",
             "repo": "git-it",
-            "stars": 1984,
+            "stars": 1983,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -401,7 +401,7 @@
             "open_issues": 33,
             "owner": "workshopper",
             "repo": "how-to-npm",
-            "stars": 1216,
+            "stars": 1215,
             "topics": [
               "javascript",
               "nodeschool",
@@ -510,7 +510,7 @@
             "open_issues": 7,
             "owner": "workshopper",
             "repo": "javascripting",
-            "stars": 2906,
+            "stars": 2905,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -644,7 +644,7 @@
             "open_issues": 113,
             "owner": "workshopper",
             "repo": "learnyounode",
-            "stars": 7381,
+            "stars": 7383,
             "topics": [
               "learn-to-code",
               "learning-by-doing",
@@ -902,7 +902,7 @@
             "open_issues": 45,
             "owner": "stevekane",
             "repo": "promise-it-wont-hurt",
-            "stars": 737,
+            "stars": 736,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -944,7 +944,7 @@
             "open_issues": 4,
             "owner": "toolness",
             "repo": "security-adventure",
-            "stars": 336,
+            "stars": 335,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:52:54.415Z",
+    "last_updated": "2026-11-20T03:45:03.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
@@ -1185,7 +1185,7 @@
       "open_issues": 2,
       "owner": "therebelrobot",
       "repo": "awesome-workshopper",
-      "stars": 2311,
+      "stars": 2309,
       "topics": []
     },
     "original_repository_sha": "5c19be2962ba93c2f8c10576cb3cf210219c4d44",
