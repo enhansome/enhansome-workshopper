@@ -65,7 +65,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [stylist-workshop](https://github.com/alanshaw/stylist) ⭐ 43 \| 🐛 6 \| 🌐 JavaScript \| 📅 2014-12-06                                          | Introduction to CSS                                                                                |
 | [swirl](https://github.com/swirldev/swirl) ⭐ 1,225 \| 🐛 327 \| 🌐 R \| 📅 2023-10-27                                                           | Learn the statistical computing and graphics programming language R, in R                          |
 | [tapeshopper](https://github.com/tomgco/tapeshopper) ⭐ 5 \| 🐛 2 \| 🌐 JavaScript \| 📅 2015-01-26                                              | Learn how to test with tape! (tap-producing test harness for node)                                 |
-| [test-anything](https://github.com/finnp/test-anything) ⭐ 170 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-04-02                                         | Introduction to testing                                                                            |
+| [test-anything](https://github.com/finnp/test-anything) ⭐ 171 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-04-02                                         | Introduction to testing                                                                            |
 | [thinking-in-react](https://github.com/asbjornenge/thinking-in-react) ⭐ 178 \| 🐛 2 \| 🌐 JavaScript \| 📅 2017-04-04                           | Introduction to React                                                                              |
 | [tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel) ⭐ 599 \| 🐛 42 \| 🌐 JavaScript \| 📅 2025-11-19                            | A tour of the features of Babel.js                                                                 |
 | [unix-adventure](https://github.com/substack/unix-adventure)                                                                                    | become a unix wizard                                                                               |
@@ -113,4 +113,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
