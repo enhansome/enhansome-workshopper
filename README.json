@@ -965,7 +965,7 @@
             "open_issues": 21,
             "owner": "workshopper",
             "repo": "stream-adventure",
-            "stars": 2063,
+            "stars": 2062,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:55.347Z"
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T05:03:35.642Z",
+    "last_updated": "2026-11-26T04:31:08.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
@@ -1185,7 +1185,7 @@
       "open_issues": 2,
       "owner": "therebelrobot",
       "repo": "awesome-workshopper",
-      "stars": 2309,
+      "stars": 2308,
       "topics": []
     },
     "original_repository_sha": "5c19be2962ba93c2f8c10576cb3cf210219c4d44",
